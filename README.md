@@ -1,5 +1,10 @@
 > Source edition: release imagery/runtime assets are excluded. Read [SOURCE_DELIVERY.md](SOURCE_DELIVERY.md) before running.
 
+For the complete application, download **all three numbered ZIP archives** from
+the [0.1.0 release](https://github.com/LKVexa/Pacific-Crest-Trail/releases/tag/v0.1.0)
+and extract them into the same parent folder. Open the resulting **Trail Dossier**
+folder and double-click **Start-Hike.cmd**.
+
 # Trail Dossier
 
 A Windows treadmill-training companion presented in the JA21 house browser at

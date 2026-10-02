@@ -1,0 +1,38 @@
+{
+  "scope": "One real public ground-photograph metadata card selected by the offline publisher; no downloaded picture or private history.",
+  "day_id": "day-001",
+  "photo": {
+    "assignment": {
+      "coordinate_role": "provider_geotag_camera_unverified",
+      "day_id": "day-001",
+      "distance_meters": 1.514,
+      "method": "globally nearest route section from provider geotag",
+      "route_fraction": 0.30202091599487246
+    },
+    "author": "lhogue46",
+    "capture_date": "2005-10-15 16:22:24",
+    "distance_to_section_meters": 1.514,
+    "id": "commons-153595482",
+    "latitude": 32.607106,
+    "license": "CC BY 2.0",
+    "license_url": "https://creativecommons.org/licenses/by/2.0",
+    "location_label": "Provider geotag 2 m from its nearest trail section",
+    "location_verification": "Provider geotag screened; camera position and depicted subject are not independently verified",
+    "longitude": -116.488949,
+    "media_kind": "ground",
+    "original_url": "https://upload.wikimedia.org/wikipedia/commons/8/84/SDA%26E_tracks_cross_the_PCT_SP_3873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+    "provenance": {
+      "commons_pageid": 153595482,
+      "geotag_source_path": "content/sources/visual_curation/day-001_geo.f518270d9eb2c2da.json.gz",
+      "geotag_source_sha256": "f518270d9eb2c2da644fd4c8d3a2368f292bfc2f8f89b8d518ba8cf3054dd79d",
+      "image_metadata_source_path": "content/sources/visual_curation/info_071_151371029.8dd5fc5815be18ca.json.gz",
+      "image_metadata_source_sha256": "8dd5fc5815be18ca60b8c513fad3a8aabda25c94e9f47c5a23f6df4750ad014f"
+    },
+    "review_status": "Licensed geotag metadata screened; not individually field-verified",
+    "route_mile": 3.02021,
+    "social_original_url": "https://www.flickr.com/photos/hoguedesert/4525538721/",
+    "source_url": "https://commons.wikimedia.org/wiki/File:SDA%26E_tracks_cross_the_PCT_SP_3873.jpg",
+    "thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/SDA%26E_tracks_cross_the_PCT_SP_3873.jpg/960px-SDA%26E_tracks_cross_the_PCT_SP_3873.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+    "title": "SDA&E tracks cross the PCT SP 3873"
+  }
+}

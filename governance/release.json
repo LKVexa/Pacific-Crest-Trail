@@ -1,0 +1,34 @@
+{
+  "product": "Trail Dossier",
+  "build": "0.2.0-prototype",
+  "assessed_utc": "2026-10-01T23:32:04.716772-07:00",
+  "control_baseline": {
+    "total_children": 3720,
+    "parents": 465,
+    "groups": 23,
+    "statuses": {
+      "in_progress": 1481,
+      "not_started": 2007,
+      "implemented": 207,
+      "verified": 25
+    },
+    "all_controls_bound": true,
+    "all_controls_verified": false,
+    "unverified": 3695,
+    "complete_release_allowed": false
+  },
+  "production_acceptance": "BLOCKED: required child controls remain unverified",
+  "human_role_acceptances": "Pending; no signatures or accepted exceptions invented",
+  "available_release": "Local functional prototype for evaluation",
+  "original_browser_policy": "Independent copied host; original D browser untouched",
+  "route_release": "pcta-2026-611b4f618a67",
+  "native_host_validation": {
+    "native_rendering_confirmed": false,
+    "runtime_integrity_entries": 49,
+    "saved_hike_day": 1,
+    "native_host_compiles": true,
+    "process_failure": "RenderProcessExited / LaunchFailed / exit49",
+    "local_web_ui_validation": "Passed in Edge",
+    "browser_sandbox_disabled": false
+  }
+}

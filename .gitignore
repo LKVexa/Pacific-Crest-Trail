@@ -1,0 +1,22 @@
+# Personal hike history and local service ownership belong to this checkout.
+data/
+__pycache__/
+*.pyc
+config/local.json
+/backups/
+/exports/
+/browser/workspace/
+# Generated databases, local diagnostics, and test-run copies stay local.
+*.sqlite
+*.sqlite3
+*.sqlite-wal
+*.sqlite-shm
+*.db
+/evidence/
+/verification/
+/delivery-manifest.json
+/browser/DEV_ONLY_DO_NOT_DEPLOY/
+/tests/experience_http_*/
+/tests/history recovery */
+/tests/*_results.json
+/tests/*_validation.json

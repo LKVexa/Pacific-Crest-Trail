@@ -1,0 +1,43 @@
+{
+  "assignment": {
+    "coordinate_role": "provider_geotag_camera_unverified",
+    "day_id": "day-153",
+    "distance_meters": 790.318,
+    "method": "globally nearest route section from provider geotag",
+    "route_fraction": 0.7066666033716971
+  },
+  "author": "Region 5 Photography",
+  "day_id": "day-153",
+  "decoded_dimensions": [
+    960,
+    720
+  ],
+  "image_bytes": 242280,
+  "image_path": "content/media/commons-102767265.jpg",
+  "image_sha256": "86f713724ab367ef43aa1da4877afbd696a33ce7071311b0b1b417319e717e5b",
+  "latitude": 41.210697,
+  "license": "CC BY 2.0",
+  "license_url": "https://creativecommons.org/licenses/by/2.0",
+  "longitude": -122.508553,
+  "mime": "image/jpeg",
+  "original_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Gumboot_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+  "photo_id": "commons-102767265",
+  "provenance": {
+    "commons_pageid": 102767265,
+    "geotag_source_path": "content/sources/visual_curation/day-153_geo.12cade603f0b0c3f.json.gz",
+    "geotag_source_sha256": "12cade603f0b0c3fd84c3f25e183fb48f724dd57968d085c7b3c102f50cf7458",
+    "image_metadata_source_path": "content/sources/visual_curation/info_043_102764826.46725b45cff84356.json.gz",
+    "image_metadata_source_sha256": "46725b45cff84356e36ac04fd8b454c64945f83140a04fd28b4a7f1e7e73de0a"
+  },
+  "provider_response": {
+    "http_status": 200,
+    "mime": "image/jpeg"
+  },
+  "provider_type": "commons-thumbnail",
+  "remote_thumbnail_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gumboot_Lake.jpg/960px-Gumboot_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "request_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Gumboot_Lake.jpg/960px-Gumboot_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+  "source_date": "2026-10-02T17:09:12.758649+00:00",
+  "source_url": "https://commons.wikimedia.org/wiki/File:Gumboot_Lake.jpg",
+  "title": "Gumboot Lake",
+  "version": 1
+}

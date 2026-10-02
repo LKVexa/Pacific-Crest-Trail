@@ -1,0 +1,1262 @@
+{
+  "files": [
+    {
+      "bytes": 2402,
+      "path": "corpora/contracts/DeepML-Animation-VFX/grammar__deepml_vfx.ebnf",
+      "sha256": "fcebe7a226643d859b728003667595b5dd849060510d12de49d6ed16486cb94a"
+    },
+    {
+      "bytes": 2665,
+      "path": "corpora/contracts/DeepML-Animation-VFX/README.md",
+      "sha256": "d64d78effed5be81a869e26cd07237075edef10c38d420a9826084824e5a1c4d"
+    },
+    {
+      "bytes": 1713,
+      "path": "corpora/contracts/DeepML-Core/README.md",
+      "sha256": "bf29121c4adcfd3ec00b1894717e16ccff15ffc2b453a62261ac5a40ae1165a2"
+    },
+    {
+      "bytes": 1389,
+      "path": "corpora/contracts/DeepML-Core/script_pack_1000__README.md",
+      "sha256": "210e0ba1a97dc3a2898c21ed4b210511d760902c57adb17e7717162befb016c0"
+    },
+    {
+      "bytes": 1705,
+      "path": "corpora/contracts/DeepML-Core/specifications__COMPILER_CONTRACT.md",
+      "sha256": "51b3f4875d744d6a086e327acfd21caab08fb98dfc6f6fc4d1da12f28de253df"
+    },
+    {
+      "bytes": 2353,
+      "path": "corpora/contracts/DeepML-Core/specifications__DEEPML_CORE_LANGUAGE.ebnf",
+      "sha256": "c4180787a3d8d2dbc47d1bdd82713f8f2568c25b9bfb90ebf17f5ef098372765"
+    },
+    {
+      "bytes": 13017,
+      "path": "corpora/contracts/DeepML-Core/specifications__LANGUAGE_SPECIFICATION.md",
+      "sha256": "61bdfc8c51e338ac5c42904e7f1f2b42cdf3f3f49acd0e6293ea448fc42d1931"
+    },
+    {
+      "bytes": 1268,
+      "path": "corpora/contracts/DeepML-Core/specifications__RUNTIME_CONTRACT.md",
+      "sha256": "f5198531911fbea67b1389efc9e15bc45924ce0101ecdd76ccc2224eb1f1bfde"
+    },
+    {
+      "bytes": 2475,
+      "path": "corpora/contracts/DeepML-Core/specifications__SEMANTIC_OPERATORS.md",
+      "sha256": "98dea09ad73bf5b041ce02b6577d5b58aadd2c7fdf24af8fc8a17bdadee3d18d"
+    },
+    {
+      "bytes": 504,
+      "path": "corpora/contracts/DeepML-Core/starter_project__README.md",
+      "sha256": "159585539fad524280bb6133f464a79f6062dcd9bedc942b638804cdf6dafcf4"
+    },
+    {
+      "bytes": 3612,
+      "path": "corpora/contracts/DeepML-Kernel/README.md",
+      "sha256": "ec85dc9fcc7aba5a4e56d2163416d8949180912966153b9713ea421b07df56fc"
+    },
+    {
+      "bytes": 685,
+      "path": "corpora/contracts/DeepML-Kernel/scripts__README.md",
+      "sha256": "1a40589bb4ce7dd66e7003195ee2277d4b98873017eb0fe9542fd0a1b97912dc"
+    },
+    {
+      "bytes": 1519,
+      "path": "corpora/contracts/DeepML-Kernel/specifications__COMPILER_CONTRACT.md",
+      "sha256": "05f2d101d053442326dac989638fc0a5569406e3ce2f37de6b9aebc9e344615c"
+    },
+    {
+      "bytes": 2668,
+      "path": "corpora/contracts/DeepML-Kernel/specifications__DEEPML_KERNEL_LANGUAGE.ebnf",
+      "sha256": "8e8d06bcfaf0db1deca9b9f751e82d70fe33e8c98162aebfd3d5d2cd0bf802b5"
+    },
+    {
+      "bytes": 2621,
+      "path": "corpora/contracts/DeepML-Kernel/specifications__LANGUAGE_SPECIFICATION.md",
+      "sha256": "81e12bdb7beae60220a988cd1a711331ac3eb9763229447236eb1d3f9505707d"
+    },
+    {
+      "bytes": 1235,
+      "path": "corpora/contracts/DeepML-Kernel/specifications__RUNTIME_CONTRACT.md",
+      "sha256": "35102340abc6955b26fdef5e1cc72d2153983cd374f508cfbad5b7bf9307cfe1"
+    },
+    {
+      "bytes": 1470,
+      "path": "corpora/contracts/DeepML-Kernel/specifications__SEMANTIC_OPERATORS.md",
+      "sha256": "ab6972999ac859a7b21e2a0b1f0b3825afb6a142566a87167a86fe2c198e70d2"
+    },
+    {
+      "bytes": 423,
+      "path": "corpora/contracts/DeepML-Kernel/starter__README.md",
+      "sha256": "6c1c800ea5d7f594720f69e0e1ce0148a378e2455bb50850112eda2e04954038"
+    },
+    {
+      "bytes": 1968,
+      "path": "corpora/contracts/DeepML-Logic-Functional/README.md",
+      "sha256": "13d8863076a06593d61cf2bd844000565fe072e5446da0c88fcaf20d942f2cb8"
+    },
+    {
+      "bytes": 2794,
+      "path": "corpora/contracts/DeepML-Logic-Functional/source_original__README.md",
+      "sha256": "aa7d1054a25b4a8c3c159418090e3c0f906eeb20334a0cf671cd91747f0bd9f0"
+    },
+    {
+      "bytes": 2529,
+      "path": "corpora/contracts/DeepML-Logic-Functional/specification__deepml_logic_functional.ebnf",
+      "sha256": "62c5d7167c2bfe180115ae8f6db3afe119eca39a8827e71b8a59a057018502e0"
+    },
+    {
+      "bytes": 11684,
+      "path": "corpora/contracts/DeepML-Logic-Functional/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "507dbcc54710b86b037854c9a0e73535a2382fd843b5d07635eaf83484dc7b4d"
+    },
+    {
+      "bytes": 456,
+      "path": "corpora/contracts/DeepML-Logic-Functional/starter_project__README.md",
+      "sha256": "fe3c03915eb1c97e130f88333967adb3044820d9c0c6737c68cfb003e68ac109"
+    },
+    {
+      "bytes": 377,
+      "path": "corpora/contracts/DeepML-Logic-Functional/tools__README.md",
+      "sha256": "7ae2953b9a0a02fdcb5c7f33a228aec92604adcb8cd76dd28651fe73026c765d"
+    },
+    {
+      "bytes": 1808,
+      "path": "corpora/contracts/DeepML-Motion-Animation/README.md",
+      "sha256": "68fbcb3dd9238f4bff52d77796d7dba723316c8454e8a2718d98fbe7356f303a"
+    },
+    {
+      "bytes": 1468,
+      "path": "corpora/contracts/DeepML-Motion-Animation/script_pack_1000__README.md",
+      "sha256": "1575ef1289712d6ca39f3ac05b5d426a8d588ce17e758eb0ce3b9b3370e79fba"
+    },
+    {
+      "bytes": 1828,
+      "path": "corpora/contracts/DeepML-Motion-Animation/specifications__COMPILER_CONTRACT.md",
+      "sha256": "f40be8cfa168cfa8d35b1bcbff529bb3cd9c9fe008ccefff72afb582e60cabf5"
+    },
+    {
+      "bytes": 2431,
+      "path": "corpora/contracts/DeepML-Motion-Animation/specifications__DEEPML_MOTION_LANGUAGE.ebnf",
+      "sha256": "98e0309e4d7d922a367d4064acada3ae537652397bf3d9748171b1fc6e782590"
+    },
+    {
+      "bytes": 11454,
+      "path": "corpora/contracts/DeepML-Motion-Animation/specifications__LANGUAGE_SPECIFICATION.md",
+      "sha256": "ef755c6534f9eb659369d609ca0c9684fca0628024253d02588808f6f5976744"
+    },
+    {
+      "bytes": 1367,
+      "path": "corpora/contracts/DeepML-Motion-Animation/specifications__RUNTIME_CONTRACT.md",
+      "sha256": "9a9fa20c0d5d2e67d9c494ef070317cf9812d80871bf1df441f050ed60f9bd5a"
+    },
+    {
+      "bytes": 2302,
+      "path": "corpora/contracts/DeepML-Motion-Animation/specifications__SEMANTIC_OPERATORS.md",
+      "sha256": "4606121e7faeaa2a3b8be8a8a5f2d935bcd9c650483dac94a301636e3876ac44"
+    },
+    {
+      "bytes": 552,
+      "path": "corpora/contracts/DeepML-Motion-Animation/starter_project__README.md",
+      "sha256": "42688f2c81d41ac81134ed736fa73e2707ee189d7247ea74464ab98a2dd780f5"
+    },
+    {
+      "bytes": 2036,
+      "path": "corpora/contracts/DeepML-Specialized/README.md",
+      "sha256": "59892f1487d9fda7f46c03ef9488490c70ff6fc064201b31cbf5df638818a22e"
+    },
+    {
+      "bytes": 893,
+      "path": "corpora/contracts/DeepML-Specialized/script_pack_1000__README.md",
+      "sha256": "6bb7962be2e45088d8a7d8cdfed981670853abe4f89fc8bd71c4fdb56aa46a91"
+    },
+    {
+      "bytes": 592,
+      "path": "corpora/contracts/DeepML-Specialized/specifications__compiler__COMPILER_CONTRACT.md",
+      "sha256": "3436b6dddb174fdf1f1f46854ef4fe682106d259f1a7421a39f50b93a56824de"
+    },
+    {
+      "bytes": 2326,
+      "path": "corpora/contracts/DeepML-Specialized/specifications__DEEPML_SPECIALIZED_GRAMMAR.ebnf",
+      "sha256": "4bf77b3946dc17f3695eafba4b352ee07330b83828521b3e533032d98eea0964"
+    },
+    {
+      "bytes": 10465,
+      "path": "corpora/contracts/DeepML-Specialized/specifications__LANGUAGE_SPECIFICATION_SOURCE.md",
+      "sha256": "07564dda38606e644e657a074a2214e657dbfd30bd929bb396fb4c9c2039927d"
+    },
+    {
+      "bytes": 615,
+      "path": "corpora/contracts/DeepML-Specialized/specifications__runtime__RUNTIME_CONTRACT.md",
+      "sha256": "3f9d7ee4d73845ad706cf801efe9edb11f761260618a65990f7048cc2c27bb9e"
+    },
+    {
+      "bytes": 736,
+      "path": "corpora/contracts/DeepML-Specialized/specifications__semantic__SEMANTIC_OPERATOR_REFERENCE.md",
+      "sha256": "a81abaa8fcb4e9a1f44545470ea5b6567aa1bc3153732b62028ef8739c3ecacc"
+    },
+    {
+      "bytes": 610,
+      "path": "corpora/contracts/DeepML-Specialized/starter_project__README.md",
+      "sha256": "b9917a53bf83b434976d9725d92d87fa5bb09eaa17a20be1fec57d687bd90e7c"
+    },
+    {
+      "bytes": 19575,
+      "path": "corpora/contracts/JA-Agent/catalogs__FEATURE_ATLAS.md",
+      "sha256": "f21f0b9c0eec9df2efe497e6ad5714884f8ce5b6e86b86e63e2b2b4a1f9e536e"
+    },
+    {
+      "bytes": 3516,
+      "path": "corpora/contracts/JA-Agent/README.md",
+      "sha256": "db9fdce0b4668771e21c448bff86e873d8af74e0ee991e51d0117b45a1c0a027"
+    },
+    {
+      "bytes": 825,
+      "path": "corpora/contracts/JA-Agent/scripts__README.md",
+      "sha256": "8336b1b815d4df61ca682245db4d82981e92fb457f000f8a2c6457ae7d753a59"
+    },
+    {
+      "bytes": 1087,
+      "path": "corpora/contracts/JA-Agent/specifications__COMPILER_CONTRACT.md",
+      "sha256": "2b1140a525047d118c48df748d4b8daa4a6477a9f2ccfcb24fc74028673af7f9"
+    },
+    {
+      "bytes": 1372,
+      "path": "corpora/contracts/JA-Agent/specifications__JA_AGENT_LANGUAGE.ebnf",
+      "sha256": "5792bcb52adf6ff0b1be4886834efdf623e7b85a76f536365d6559fc9f37f9ea"
+    },
+    {
+      "bytes": 1762,
+      "path": "corpora/contracts/JA-Agent/specifications__LANGUAGE_SPECIFICATION.md",
+      "sha256": "6b69badcdf8307f3a67793e51138a63e109b16de5b56facf6128f065a8b6c319"
+    },
+    {
+      "bytes": 727,
+      "path": "corpora/contracts/JA-Agent/specifications__RUNTIME_CONTRACT.md",
+      "sha256": "97614574d9b2924efb2c326c31a838cc9ecf7adfff4e0ae79b1bfed9574ad606"
+    },
+    {
+      "bytes": 1912,
+      "path": "corpora/contracts/JA-Agent/specifications__SEMANTIC_OPERATORS.md",
+      "sha256": "91dc2bbdfcc2e9b07d042799a96a2e44d30b6f4ea31a0a7e02d9349a2dc32c0f"
+    },
+    {
+      "bytes": 241,
+      "path": "corpora/contracts/JA-Agent/starter__README.md",
+      "sha256": "6d0a2f2a99b1e6d7e056a060e6115902b52810b5152bc71bd01e0c840fd613e4"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0849_EX-JCG-07563_ambiguity_analysis.ebnf",
+      "sha256": "b2d39629d787e7eb98e6b757cd903abbd84bc7b3504bf27b73a9cd4d9b3a7913"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0853_EX-JCG-07577_automaton.ebnf",
+      "sha256": "010dc33b327292ed8b61c86993fd53886c5b0731b8d8b8a9799cab022616bea6"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0857_EX-JCG-07596_parser_table_compression.ebnf",
+      "sha256": "c95a584bc2eac0f997b70739e7dee43f1ea92666992ad5b1a2df74bb23dedd2b"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0858_EX-JCG-07599_grammar_normalization.ebnf",
+      "sha256": "32907b85b97ce18159ec11d822ad9cb61a94ca52e9f00413a6e77c33a3c43a02"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0866_EX-JCG-07642_left_recursion.ebnf",
+      "sha256": "489150531e37ab43b847dedaf7f3d5f22401ba760b2b2590cbb9e6e19c76b49d"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0870_EX-JCG-07661_validator_scheduling.ebnf",
+      "sha256": "8a9fd28ee383fa575b24a0141455a1586ed72e073da066c62cd303f0547f7010"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0874_EX-JCG-07680_first_follow.ebnf",
+      "sha256": "a852b751147d7af8e4f0e50bf76082e7d5e09c2ba2e110a589ea122de8a810e1"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0881_EX-JCG-07742_r12_mcrt_lowering.ebnf",
+      "sha256": "617b7ff480b62d2347ea58ec2f82230648ad140b9aa841a8b90307bb56375e54"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0883_EX-JCG-07761_automaton.ebnf",
+      "sha256": "e7617d808cdf6c9e3b18821d6cdde5b91655c90a92cce2104feabc863dc8d0f2"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0891_EX-JCG-07815_grammar_normalization.ebnf",
+      "sha256": "8623b8bc9b5ea54b3146efc4b3f77cc60e74d2e9171f4b4a8df97d35d11e570f"
+    },
+    {
+      "bytes": 508,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/scripts__05_compiler_optimization__negative__0893_EX-JCG-07834_left_recursion.ebnf",
+      "sha256": "2c79784e40a058227e0520a563a58dae9ddf5f125e3a7a547a9d8dbf2058eb2c"
+    },
+    {
+      "bytes": 1381,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/specifications__COMPILER_CONTRACT.md",
+      "sha256": "3a504984911fc01060f7dc536d8691d14a630b0b6d999fee6b5d984db5e7247d"
+    },
+    {
+      "bytes": 6981,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/specifications__COMPILER_CONTRACT.source.json",
+      "sha256": "d182cb164891278ff7109bc657362360cf6dcbba880e6184dc4ea34740d4eabe"
+    },
+    {
+      "bytes": 2489,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/specifications__JA_CERTIFIER_GRAMMAR_SOURCE.ebnf",
+      "sha256": "082858b14d866d891f167e15a50a7c01dacfb4e69bad74ad410cceca7a7b0007"
+    },
+    {
+      "bytes": 2316,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/specifications__LANGUAGE_SPECIFICATION.md",
+      "sha256": "7098c727d7c7bd154b86c46bc26cf7b63a19a8c0bc4eac9587166cbcf41ccc25"
+    },
+    {
+      "bytes": 942,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/specifications__RUNTIME_CONTRACT.md",
+      "sha256": "b5e8ed4346b88cb8e8ab5d20d0ca10a919c020f5846ed2ca8bd8c54689ae4214"
+    },
+    {
+      "bytes": 6908,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/specifications__RUNTIME_CONTRACT.source.json",
+      "sha256": "2d90cd4e64cb9e630ca8e79075334f1384d01b8a03e98bdcd094b83b7a182341"
+    },
+    {
+      "bytes": 291,
+      "path": "corpora/contracts/JA-Certifier-Grammar-Suite-1.0.0/starter__hello_certifier.ebnf",
+      "sha256": "c7d32aeeab66d552b112729962a916f12a4acb0562f615d33962cad1c8afcdee"
+    },
+    {
+      "bytes": 15935,
+      "path": "corpora/contracts/JA-Core-Application/catalogs__FEATURE_ATLAS.md",
+      "sha256": "cace903304356b988ac8ea2b0292b68d16c66ebad81885f2a51e7005bd9dc99b"
+    },
+    {
+      "bytes": 1635,
+      "path": "corpora/contracts/JA-Core-Application/README.md",
+      "sha256": "42446dacc9c0fc6973597077c56d67f1f56f7c88c19e6bd487fafba1bb450309"
+    },
+    {
+      "bytes": 1154,
+      "path": "corpora/contracts/JA-Core-Application/spec__COMPILER_CONTRACT.md",
+      "sha256": "6c13c40f7c5fd19197a6b9ac260e59a9ea0570575943fcb9cc76e22930144a55"
+    },
+    {
+      "bytes": 2978,
+      "path": "corpora/contracts/JA-Core-Application/spec__JA_CORE_EBNF.md",
+      "sha256": "41adb920806945fc39b4ee00bcc8475dfaa80c3e66c86e43ec950130d74fde1f"
+    },
+    {
+      "bytes": 2163,
+      "path": "corpora/contracts/JA-Core-Application/spec__LANGUAGE_SPECIFICATION.md",
+      "sha256": "9f5fbaf7d13ab84c87981029c47818718c0dc8aa09e42ea763d7dab96409904e"
+    },
+    {
+      "bytes": 983,
+      "path": "corpora/contracts/JA-Core-Application/spec__RUNTIME_CONTRACT.md",
+      "sha256": "46a2d3131055fc35a24ed48692a33d5bebc712c771a63c3260ff04dce67287b1"
+    },
+    {
+      "bytes": 780,
+      "path": "corpora/contracts/JA-Core-Application/spec__SEMANTIC_OPERATOR_REGISTRY.json",
+      "sha256": "d38768516ad481635f218676b401ffe46eb6892d12291ead8e0d3e23c9dda476"
+    },
+    {
+      "bytes": 390,
+      "path": "corpora/contracts/JA-Core-Application/starter__README.md",
+      "sha256": "78e8c14da8a43a40fd178da47f4b7d92205c77bf7b3ac117d5e793651390345d"
+    },
+    {
+      "bytes": 5627,
+      "path": "corpora/contracts/JA-Data/catalogs__FEATURE_ATLAS.md",
+      "sha256": "d5a67e14568d1a05b74c5d64a686d28cf4fcf4412a5badaab321dbf05616d70a"
+    },
+    {
+      "bytes": 1237,
+      "path": "corpora/contracts/JA-Data/README.md",
+      "sha256": "8a4bee81d267e547eaff88619f292583617c0c5d23b976090e2217db1222f413"
+    },
+    {
+      "bytes": 716,
+      "path": "corpora/contracts/JA-Data/specification__COMPILER_CONTRACT.md",
+      "sha256": "eb5b2f6664bde8e85448a884b9edac3aebfd95807f7af036b11804d3ab71e5c5"
+    },
+    {
+      "bytes": 1532,
+      "path": "corpora/contracts/JA-Data/specification__JAD_EBNF.md",
+      "sha256": "bd06c2229624d7282099898321a342147a762b6dc81cf8052e2ef6a01c237b86"
+    },
+    {
+      "bytes": 1232,
+      "path": "corpora/contracts/JA-Data/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "d6ddce81772e2e1b902f6d8da06fb65df71ea72494ba966fe9cf71a674598cb9"
+    },
+    {
+      "bytes": 604,
+      "path": "corpora/contracts/JA-Data/specification__RUNTIME_CONTRACT.md",
+      "sha256": "00815ccfd8daf8107e49aab87b675a09dc7d4b4a0f3f95468ca7e372b8143a8e"
+    },
+    {
+      "bytes": 4908,
+      "path": "corpora/contracts/JA-Data/specification__SEMANTIC_OPERATOR_REGISTRY.md",
+      "sha256": "b7fc78310397696d5c39cad118e836ad270436fb117eae699fe4bb81a0ac18e1"
+    },
+    {
+      "bytes": 243,
+      "path": "corpora/contracts/JA-Data/starter__README.md",
+      "sha256": "24e5facffadb3bba1045369853d750efb3da8545910115911b867b11ced16131"
+    },
+    {
+      "bytes": 26255,
+      "path": "corpora/contracts/JA-Interface/catalogs__FEATURE_ATLAS.md",
+      "sha256": "7b85c342d01b891fde6f0125e2877a6038b3e35c0a669ac99447e25673ee8802"
+    },
+    {
+      "bytes": 1393,
+      "path": "corpora/contracts/JA-Interface/contracts__COMPILER_CONTRACT.md",
+      "sha256": "9746a9ed730793c550772e1ec52f6928c68dc4fa6ee041e0ae9dac00d6c8a01a"
+    },
+    {
+      "bytes": 1365,
+      "path": "corpora/contracts/JA-Interface/contracts__RUNTIME_CONTRACT.md",
+      "sha256": "b1cf952ac3359ab241a1c8853a0198639d60b9fea98c25a91d50e0dd20b66010"
+    },
+    {
+      "bytes": 2766,
+      "path": "corpora/contracts/JA-Interface/README.md",
+      "sha256": "17f7de650650296bb9aec8b2f0d1cf77632a395b766f82ae2792985d6f60710d"
+    },
+    {
+      "bytes": 3915,
+      "path": "corpora/contracts/JA-Interface/specification__JA_INTERFACE_EBNF.md",
+      "sha256": "1fa0d376feac6c5f2b544718e284f1ee92b254d9260f4c5bc2932dda176ed8c0"
+    },
+    {
+      "bytes": 4764,
+      "path": "corpora/contracts/JA-Interface/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "2ec33d40c61c23ad644004e70cb65738d77e01b00c15a2699f1d1feb70505eac"
+    },
+    {
+      "bytes": 1249,
+      "path": "corpora/contracts/JA-Interface/specification__SEMANTIC_OPERATORS.md",
+      "sha256": "bcd05f5dd552800ef003e1a518dd07381a03219b9418f1528f695c9d1c5058b9"
+    },
+    {
+      "bytes": 280,
+      "path": "corpora/contracts/JA-Interface/starter_project__README.md",
+      "sha256": "1ba5de58b21355d7ca4bbc3f691b28e8f67a38c810b3bc4a3d7e71c749e4cb66"
+    },
+    {
+      "bytes": 2670,
+      "path": "corpora/contracts/JA-Operations/catalogs__FEATURE_ATLAS.md",
+      "sha256": "e0c341b0beae4896f1dab6293d264c293ddc46cb9ed970d46abea3e757be587b"
+    },
+    {
+      "bytes": 755,
+      "path": "corpora/contracts/JA-Operations/contracts__COMPILER_CONTRACT.md",
+      "sha256": "c34b92db0a3e7ac4d9efa51f77e8b5f789694c2b438cb117d9927ccec3721e0d"
+    },
+    {
+      "bytes": 788,
+      "path": "corpora/contracts/JA-Operations/contracts__RUNTIME_CONTRACT.md",
+      "sha256": "cd7ea4befefd0c6145b4fbabf76aa61101177088e19e93cf8ef4dca9a8be1f97"
+    },
+    {
+      "bytes": 2450,
+      "path": "corpora/contracts/JA-Operations/README.md",
+      "sha256": "52acd17d4ba1a33a0e51f39cf823c7f78e8f7a0a789f8f9c4b76892c22ffe9b0"
+    },
+    {
+      "bytes": 1723,
+      "path": "corpora/contracts/JA-Operations/specification__JA_OPERATIONS_EBNF.md",
+      "sha256": "0bf847b676ed74a098f2555a041359cf8c677b9f4fd6561fa94d79772581cbee"
+    },
+    {
+      "bytes": 1948,
+      "path": "corpora/contracts/JA-Operations/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "0bdb815f26bec239ee7a0025c7e2beab3ad1279e40477bf381f80c7f9162f138"
+    },
+    {
+      "bytes": 2375,
+      "path": "corpora/contracts/JA-Operations/specification__SEMANTIC_OPERATORS.md",
+      "sha256": "37d364903cbce9c2e1dd5a1293f17dd87b217ca48d6a80ed6cd41e2e8d095b04"
+    },
+    {
+      "bytes": 291,
+      "path": "corpora/contracts/JA-Operations/starter__README.md",
+      "sha256": "72f0bfec6eaa2359b57241d3e7a485f0ed49d3d2324f8ac4ba852f3b90a13db0"
+    },
+    {
+      "bytes": 1717,
+      "path": "corpora/contracts/JA-Portal-Scene/README.md",
+      "sha256": "5002ba252b7b9c34ff30fc121f94ca63974eba717939a2b4a145a1e6c95a2e56"
+    },
+    {
+      "bytes": 267,
+      "path": "corpora/contracts/JA-Portal-Scene/source__README.md",
+      "sha256": "4bae6ac481518f39beee80fd5b4febebdb84a5bcd39def723344ff9abd8f5a53"
+    },
+    {
+      "bytes": 668,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__contracts__COMPILER_CONTRACT.md",
+      "sha256": "5c248fee1cbcea2d12921dbf842bddbd60c20cdb65db8f36d06c0ce62945429f"
+    },
+    {
+      "bytes": 509,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__contracts__RUNTIME_CONTRACT.md",
+      "sha256": "2cfdf5e15cade76be11bc1653410105d1fbf2e4cf4bce3254f0c46cbf82605de"
+    },
+    {
+      "bytes": 1295,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__grammar__JA_PORTAL_SCENE_STANDALONE.ebnf",
+      "sha256": "af0eed4972d8c32c501dfd291f6a87d0cf34f375a43bf69b1548200928f89e73"
+    },
+    {
+      "bytes": 6985,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__original__ORIGINAL_COMPILER_CONTRACT.json",
+      "sha256": "0b4f1f974ab613ef186842da8065100a980b92f90f5a8da68ab08a57c8707cac"
+    },
+    {
+      "bytes": 2489,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__original__ORIGINAL_GRAMMAR.ebnf",
+      "sha256": "e85521cf762d633d703111f18c6023038ad293031e391767c14318429c0c0e58"
+    },
+    {
+      "bytes": 6912,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__original__ORIGINAL_RUNTIME_CONTRACT.json",
+      "sha256": "d9df3ac3ccfaee681b9bfae1acddde2d7a56f83ca9d286fa570fc2409ebf6097"
+    },
+    {
+      "bytes": 26393,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__original__ORIGINAL_SEMANTIC_OPERATORS.json",
+      "sha256": "13d3d9b82e18a6b10166fbf1285d7a6d2dbde1f73228ecd23076aacd24f53e10"
+    },
+    {
+      "bytes": 5038,
+      "path": "corpora/contracts/JA-Portal-Scene/spec__semantics__SEMANTIC_OPERATOR_REGISTRY.json",
+      "sha256": "a46b599cfdfc227bdc9d10cba6d22cba3c71d41c2760f01293181d8054791609"
+    },
+    {
+      "bytes": 310,
+      "path": "corpora/contracts/JA-Portal-Scene/starter__README.md",
+      "sha256": "8cf5495fb7f7709141f3428b9270de5dcc666959241d503e03b866232055b548"
+    },
+    {
+      "bytes": 601,
+      "path": "corpora/contracts/JA-Programming/PROGRAMMING_CORPUS_POINTER.json",
+      "sha256": "5aa499ebd0f0dc2a4bdda8fef8d6ad56a50c2aff83b9d0feb7351c88e6ec850b"
+    },
+    {
+      "bytes": 2627,
+      "path": "corpora/contracts/JA-Security-Policy/catalogs__FEATURE_ATLAS.md",
+      "sha256": "d32287e2f8b7a6839ff25c4b01daec660d49558d94d7378bd93b6fb2846d30f2"
+    },
+    {
+      "bytes": 556,
+      "path": "corpora/contracts/JA-Security-Policy/contracts__COMPILER_CONTRACT.md",
+      "sha256": "b372594d7ef57517e3cc21bb2d607660de216ae192e9289f2e923d3ab295f4f7"
+    },
+    {
+      "bytes": 547,
+      "path": "corpora/contracts/JA-Security-Policy/contracts__RUNTIME_CONTRACT.md",
+      "sha256": "382d4cb9f0cc431dd15ccd80e28726f7a7b8693492c4ac537095bacfb8d982cd"
+    },
+    {
+      "bytes": 2011,
+      "path": "corpora/contracts/JA-Security-Policy/README.md",
+      "sha256": "83a33cadb6ff0a86cfc52acf709e8005faccd32ab2ae9a52171496585f3bde18"
+    },
+    {
+      "bytes": 1604,
+      "path": "corpora/contracts/JA-Security-Policy/specification__JA_SECURITY_EBNF.md",
+      "sha256": "1eb960799502601034d1276b8e8edab81be4e46e94f408fe0cc44bef23e7add2"
+    },
+    {
+      "bytes": 1475,
+      "path": "corpora/contracts/JA-Security-Policy/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "934b2ebfc9674ce5fa0409ee9e1800092678e6c6271fe948662b3262b77d903d"
+    },
+    {
+      "bytes": 1825,
+      "path": "corpora/contracts/JA-Security-Policy/specification__SEMANTIC_OPERATORS.md",
+      "sha256": "0ecd12f336aadaf9092fe8878c3224b0064586d6dcc375fbd8b106ebea21aebf"
+    },
+    {
+      "bytes": 280,
+      "path": "corpora/contracts/JA-Security-Policy/starter__README.md",
+      "sha256": "f999c2870bb0cb8cfeb6519c9f2ad7929e724759fecf036ac1744d91da6b2bac"
+    },
+    {
+      "bytes": 3991,
+      "path": "corpora/contracts/JA-Service-and-Protocol/catalogs__FEATURE_ATLAS.md",
+      "sha256": "4ab70b4fd4709419a48100f7ecb372b22c9257c811e386740da7a4d031ae106f"
+    },
+    {
+      "bytes": 723,
+      "path": "corpora/contracts/JA-Service-and-Protocol/README.md",
+      "sha256": "da0b059d64efff450abaa280a5fada2426c0ec0070e34e68dee7cf6cdfabbfab"
+    },
+    {
+      "bytes": 899,
+      "path": "corpora/contracts/JA-Service-and-Protocol/specification__COMPILER_CONTRACT.md",
+      "sha256": "1fc1a6ef3c0c68c617f3fc11180729a1cc152b8572dade3c03d9064a8a151777"
+    },
+    {
+      "bytes": 2251,
+      "path": "corpora/contracts/JA-Service-and-Protocol/specification__JA_SERVICE_PROTOCOL.ebnf",
+      "sha256": "d0564aac12f5d59fc33e51d56bcec96fa2e1afd86a9406ff146e614ed8df976f"
+    },
+    {
+      "bytes": 1494,
+      "path": "corpora/contracts/JA-Service-and-Protocol/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "2cef8af0a80e847d24249af1c529b192b6f7ef8749dee999a7169de5b4b65da5"
+    },
+    {
+      "bytes": 700,
+      "path": "corpora/contracts/JA-Service-and-Protocol/specification__RUNTIME_CONTRACT.md",
+      "sha256": "7421cc74275d0af8e31bc9e5d6159cc263418074daab3d0c5a525369f09a95e0"
+    },
+    {
+      "bytes": 1583,
+      "path": "corpora/contracts/JA-Service-and-Protocol/specification__SEMANTIC_OPERATOR_REGISTRY.json",
+      "sha256": "46e94de0fa34db52e93e69eae347394252200dd72e7368a4d9be64e7381b894d"
+    },
+    {
+      "bytes": 240,
+      "path": "corpora/contracts/JA-Service-and-Protocol/starter_project__README.md",
+      "sha256": "c686c86707964632925473d90f333e2d7bffb0701144f48cac4a80bd1966cb33"
+    },
+    {
+      "bytes": 3381,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/catalogs__FEATURE_ATLAS.md",
+      "sha256": "549d5ac1b29e093855cfcf30cbbeeae026ba823e8733cdeb356f5171b4726db7"
+    },
+    {
+      "bytes": 2158,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/README.md",
+      "sha256": "5d76c3f79f191fa2b2c36ac1ab410c46a5817a91a29b4712041d8e165c54839d"
+    },
+    {
+      "bytes": 854,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/specification__COMPILER_CONTRACT.md",
+      "sha256": "dd955f72898630580a8abdcad9ee4de05af27cc536b9ef610b0953e2fe3726da"
+    },
+    {
+      "bytes": 1760,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/specification__JA_TEST_PROOF.ebnf",
+      "sha256": "8b2fdfad1a1043a91fe95d07aee24589175cbe727e96b6c333d1e48b0c168c37"
+    },
+    {
+      "bytes": 1540,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "b9feeecf7e9cc99f5b88914621097bc0004f5c9b1bce202c1c51f03e5fae2c41"
+    },
+    {
+      "bytes": 780,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/specification__RUNTIME_CONTRACT.md",
+      "sha256": "357442a69c34e3ec13c65bbb9a76de74db738b2d29fd401071ecd67ed589541e"
+    },
+    {
+      "bytes": 777,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/specification__SEMANTIC_OPERATOR_REGISTRY.json",
+      "sha256": "2c49c5a42238050070b89503bfc592c31b127ce24f3f36b4018f0f91ac397c04"
+    },
+    {
+      "bytes": 272,
+      "path": "corpora/contracts/JA-Test-Simulation-and-Proof/starter_project__README.md",
+      "sha256": "c20aaaf71f44f7d3b653e48ff510c1f38a816844d441e6f20101b6d2d225c32b"
+    },
+    {
+      "bytes": 4660,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/catalogs__FEATURE_ATLAS.md",
+      "sha256": "17e07e9c30405616207f830a28cb0a1d042afcc19c09cfa13d2aedc3769477e6"
+    },
+    {
+      "bytes": 1054,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/README.md",
+      "sha256": "04616b411fa9e687bdca99e92ea86110ac479a81b7204a7826d20c03cb12f9ed"
+    },
+    {
+      "bytes": 572,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/specification__COMPILER_CONTRACT.md",
+      "sha256": "fc357db47a2b4fa0dc34713eef218c5844a2a89f72f9c8cd800e766885f5efa1"
+    },
+    {
+      "bytes": 2455,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/specification__JA_TRAINING_EVALUATION_EBNF.md",
+      "sha256": "c3ac2672e09170d716fcae429e050463334b67ecd701ad190eb93d01689b26e5"
+    },
+    {
+      "bytes": 928,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/specification__LANGUAGE_SPECIFICATION.md",
+      "sha256": "599ab5d6e00fc7c9356f92ee17fcdc6f5a6d9e8fb6519f1f0354b898af9ccc99"
+    },
+    {
+      "bytes": 494,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/specification__RUNTIME_CONTRACT.md",
+      "sha256": "f20c7157e1a8f5a715a454c0b0103d3c199ef171f8c5c7c5a0e9a208ced0f982"
+    },
+    {
+      "bytes": 713,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/specification__SEMANTIC_OPERATORS.json",
+      "sha256": "0b39287260c42b6f3db10544160c66f02f964aa4f52838ba6bf5c956c0ce6054"
+    },
+    {
+      "bytes": 250,
+      "path": "corpora/contracts/JA-Training-and-Evaluation/starter__README.md",
+      "sha256": "9bdc1b48aae895e3feaa8876dc63b1d6a7ab7a39794db682d7008cb950e47123"
+    },
+    {
+      "bytes": 2762,
+      "path": "corpora/contracts/JAXD-JAXD/catalogs__FEATURE_ATLAS.md",
+      "sha256": "b44023149a8ce274300eda2488ff6b8b579f54793d76511cca156f0ba590a159"
+    },
+    {
+      "bytes": 1720,
+      "path": "corpora/contracts/JAXD-JAXD/README.md",
+      "sha256": "9081ca04cca58582cda3b5f04589981fb7d8b0ecf53a6b64b39659a55c9c454e"
+    },
+    {
+      "bytes": 795,
+      "path": "corpora/contracts/JAXD-JAXD/specification__COMPILER_CONTRACT.json",
+      "sha256": "e7947cf0d5c8fab954240a562cc5d8b7edbd6933151484494c32d033dd3bd4a0"
+    },
+    {
+      "bytes": 7738,
+      "path": "corpora/contracts/JAXD-JAXD/specification__GRAMMAR.ebnf",
+      "sha256": "2882dad72d9be6c35de302ff3cbf7ac327f9760a081c1814155cbec14f1be652"
+    },
+    {
+      "bytes": 14112,
+      "path": "corpora/contracts/JAXD-JAXD/specification__LANGUAGE_SPECIFICATION_0.1.0.md",
+      "sha256": "f06d607509ec7fb493539b45eee9512454d6bfbf3436ce5623e359496db73338"
+    },
+    {
+      "bytes": 605,
+      "path": "corpora/contracts/JAXD-JAXD/specification__RUNTIME_CONTRACT.json",
+      "sha256": "6835d885a2ba2d2266dc043df1bcac04a4840f2d564c08968b63ae220969a734"
+    },
+    {
+      "bytes": 7472,
+      "path": "corpora/contracts/JAXD-JAXD/specification__SEMANTIC_OPERATORS.json",
+      "sha256": "2d214a7389ccc05a016710a3afa2aca55c742ce004c61c059bc67470ded8295d"
+    },
+    {
+      "bytes": 2738,
+      "path": "corpora/contracts/JAXD-JAXD/specification__STANDARD_LIBRARY.md",
+      "sha256": "7c548b6fc7673344a97167988daad527dda94a171167c59a0f35331352389bad"
+    },
+    {
+      "bytes": 204,
+      "path": "corpora/contracts/JAXD-JAXD/starter__README.md",
+      "sha256": "b1e1564a95c18fe2db59451b21c344f6432c317e92d8e7066637c3b8767e4fea"
+    },
+    {
+      "bytes": 213,
+      "path": "corpora/contracts/JAXD-JAXD/tools__README.md",
+      "sha256": "6b8c33a2f21b4f2419ebf4452d944c8bc424ce4818272da9d6357e2839b7bea4"
+    },
+    {
+      "bytes": 1031,
+      "path": "corpora/contracts/MCRT-MPTL/README.md",
+      "sha256": "6bc8e71b69840cf6fb10a8c6b299e79ff5e41fa77a156d1f0eae3bfb468725ba"
+    },
+    {
+      "bytes": 6989,
+      "path": "corpora/contracts/MCRT-MPTL/specifications__CANONICAL_COMPILER_CONTRACT.json",
+      "sha256": "7ccce17de2cf010d513751aea996f7ff817fd06e5c6704c19b69142553b16cf0"
+    },
+    {
+      "bytes": 2610,
+      "path": "corpora/contracts/MCRT-MPTL/specifications__CANONICAL_GRAMMAR.ebnf",
+      "sha256": "3a7cfde4aeef5e18dc77767a9832d7f79cc75369d650bcca85405526dd50f78b"
+    },
+    {
+      "bytes": 6916,
+      "path": "corpora/contracts/MCRT-MPTL/specifications__CANONICAL_RUNTIME_CONTRACT.json",
+      "sha256": "8605ad856ef4804860b2b2666db6b2d2a27be6d1c8814f70786c2f60bb474140"
+    },
+    {
+      "bytes": 572,
+      "path": "corpora/contracts/MCRT-MPTL/specifications__COMPILER_CONTRACT.json",
+      "sha256": "76c40d4a2372ac2f9c240aed9105f370375e65c2708ba994179acb1f73cc353c"
+    },
+    {
+      "bytes": 565,
+      "path": "corpora/contracts/MCRT-MPTL/specifications__RUNTIME_CONTRACT.json",
+      "sha256": "ba256d7a6a777df393b8fea9a8a296353972eb0dd40e61e6409f88e4b897a77e"
+    },
+    {
+      "bytes": 1157,
+      "path": "corpora/contracts/MCRT-MPTL/specifications__SEMANTIC_OPERATOR_REGISTRY.md",
+      "sha256": "641faf7ad9ceb6b80a912d108e3c37a609ec790e7a0307c58be9574c8d7a8c73"
+    },
+    {
+      "bytes": 177,
+      "path": "corpora/contracts/MCRT-MPTL/starter__README.md",
+      "sha256": "cc965cb9515c1905cb075643db6692d0f9ffc61e1509cb7049c40be920f7e228"
+    },
+    {
+      "bytes": 367,
+      "path": "engine/df_medium/baseline/LICENSE",
+      "sha256": "b85411db15d3305c009498fa47817c0e37cbc7823fd608c03f20d832cb5a7531"
+    },
+    {
+      "bytes": 1774,
+      "path": "engine/df_medium/ENGINE_PROVENANCE.json",
+      "sha256": "f2c36f4a09ec2ea2a7a07805f2426f0d1d19d754e6d8b5d00f7be6a70cb8ebe5"
+    },
+    {
+      "bytes": 6953,
+      "path": "engine/df_medium/source/brtrust.c",
+      "sha256": "0aedbbd66c3829b7aecc88ef0f33afde39eecea6ba28a79782bd19c0cb84d349"
+    },
+    {
+      "bytes": 592,
+      "path": "engine/df_medium/source/brtrust.h",
+      "sha256": "52badc964aeb587bc942f99515b3585e6bcd2f2258d8259b555feeec1d7df654"
+    },
+    {
+      "bytes": 56396,
+      "path": "engine/df_medium/source/brvm.c",
+      "sha256": "6a412aab9147980796c6ce5c61d552bc45dd54e2e328af4fc2b08d41adc9e585"
+    },
+    {
+      "bytes": 9671,
+      "path": "engine/df_medium/source/brvm.h",
+      "sha256": "162f9e73dc4ce14cbea6e75a5b64f676296dbadcb0495581f86b186cd10f7573"
+    },
+    {
+      "bytes": 27773,
+      "path": "engine/df_medium/source/ja21_webengine.c",
+      "sha256": "5d82192d32ddd6580c85b3afcc8d99c69ddd29b293596e90a070d313d55fed35"
+    },
+    {
+      "bytes": 1723,
+      "path": "engine/df_medium/source/ja21_webengine.h",
+      "sha256": "d851d93cd30b04ca23a41f95138f8420e2574e3287a47b30ef6b13824b7a7eae"
+    },
+    {
+      "bytes": 46797,
+      "path": "engine/ja21/browser.ir.json",
+      "sha256": "528f5a877be5d12c57c318355579402422a46f04e7bc95e932af00aa8e97f860"
+    },
+    {
+      "bytes": 55412,
+      "path": "engine/ja21/corpus.lock.json",
+      "sha256": "9238730509d7784b96dce3b89c5e75a2c0e72a0342fb924a18ce6b092328d64a"
+    },
+    {
+      "bytes": 24641,
+      "path": "engine/ja21/dfsmall.lock.json",
+      "sha256": "5f1386706c3ffd219f13ec75d804abf2f877e48c19b2524dbd98288a31a5b563"
+    },
+    {
+      "bytes": 1881,
+      "path": "engine/ja21/portable.runtime.json",
+      "sha256": "fd5584e9262311c9b9ceb3ca1d95a58c76f452090cba20efc89635a0fcb94c99"
+    },
+    {
+      "bytes": 9902,
+      "path": "engine/ja21/profile.json",
+      "sha256": "27f469d34c1f40c97c91ceca763bcda6ab91e7dfa303706798b15115255e2d75"
+    },
+    {
+      "bytes": 10601,
+      "path": "engine/ja21/renderer.ir.json",
+      "sha256": "fbb20a43852168723387dd5ea4b2b3b396a429c5ce9a1df1398cc548b3b265fd"
+    },
+    {
+      "bytes": 8670,
+      "path": "engine/ja21/runtime.integrity.json",
+      "sha256": "47d7f29bc8b4f3d3ff41838558b5ab6a633a5b6f9e2151a11aa18f590fb20f87"
+    },
+    {
+      "bytes": 4007,
+      "path": "engine/ja21/web_engine.ir.json",
+      "sha256": "612f4b8fbf9bdc28d5093b1762ae555b91b09f7b0c3427db7d71cc0c65c01d0f"
+    },
+    {
+      "bytes": 367,
+      "path": "helper/DF_Small/LICENSE",
+      "sha256": "b85411db15d3305c009498fa47817c0e37cbc7823fd608c03f20d832cb5a7531"
+    },
+    {
+      "bytes": 4373,
+      "path": "host/Ensure-WebView2Bridge.ps1",
+      "sha256": "4ea2595c31ce3557376f761ac719f0fa00b35471b0f2469645657ab884e30526"
+    },
+    {
+      "bytes": 7716,
+      "path": "host/Import-WebView2Adapter.ps1",
+      "sha256": "87ed65b27637ef2c6a45017c602f3a4bc3a714a7137c4a49b575ba883ddf1b78"
+    },
+    {
+      "bytes": 1169,
+      "path": "host/Install-WebView2Bridge.ps1",
+      "sha256": "200a2fdb99f4cef667c9db7e6505f7e1b2bce12eadf819e6e205a082c0953bc9"
+    },
+    {
+      "bytes": 220995,
+      "path": "host/JA21VirtualBrowser.cs",
+      "sha256": "37c78f8be9400c9e05ad421acbd3c4878bdb385d8cc4d226ab55a1018bc27c18"
+    },
+    {
+      "bytes": 17128,
+      "path": "host/LiveWebBridge.cs",
+      "sha256": "f4bc72bf3be184295e847f4e0a5b3ad73be8aeae254d7c241cb9abb02902190b"
+    },
+    {
+      "bytes": 556,
+      "path": "host/LiveWebBridgeStub.cs",
+      "sha256": "cf5d9c471b5877852167c0347d0597a771063bd91c36a650d40dcf12d17863b3"
+    },
+    {
+      "bytes": 672,
+      "path": "host/LiveWebContracts.cs",
+      "sha256": "c0e42e6aecea66a601451881eeb7a27c5044a4a008ace1374b612bfe270e5017"
+    },
+    {
+      "bytes": 1336,
+      "path": "host/portable-env.cmd",
+      "sha256": "b03d847e586593b59f1e595d5b3b4c327e642607541cf18159644ab56db86fae"
+    },
+    {
+      "bytes": 10740,
+      "path": "host/PortableDesktop.cs",
+      "sha256": "8b96cba412ee124cfaf5f27391cc41bc7709fdd82a0e26ca8022928906be0e03"
+    },
+    {
+      "bytes": 7167,
+      "path": "host/Presenter-Cache.ps1",
+      "sha256": "283b752d9a8be5f3f0137ff8b958b055a53b77889f081feebb7e86c25b7dd97e"
+    },
+    {
+      "bytes": 3884,
+      "path": "host/Snapshot-PortableWorkspace.ps1",
+      "sha256": "3f58cc8a69297a8605b27d071e74237d374f7077d3e11394ba07ffe0f9929e89"
+    },
+    {
+      "bytes": 10519,
+      "path": "host/Start-JA21Browser.ps1",
+      "sha256": "af98ee8a9912257b2bdd784952968e8263dabf7b28a4566e30301b0fcc2eeeed"
+    },
+    {
+      "bytes": 10364,
+      "path": "host/TrailDossierHost.cs",
+      "sha256": "a7602375b42e3bd8d30e4b870176f3a7138d1b4fc5cdc0936b95c623ab132f90"
+    },
+    {
+      "bytes": 47749,
+      "path": "host/Vec1Substrate.cs",
+      "sha256": "1a380926f0397ad43dc1c9d7a0cf656adf78067d7daad09be68dd7c6f2176ce8"
+    },
+    {
+      "bytes": 19961,
+      "path": "host/Verify-JA21Browser.ps1",
+      "sha256": "f750bbf29a2a2d09e9092ac2427065b8018d58863db34c4517c30ae02c67ee06"
+    },
+    {
+      "bytes": 3056,
+      "path": "host/Verify-PortableDesktop.ps1",
+      "sha256": "397f279155215d866f175c50e0bf553f1f055e4b2c2a0effb89b3e434ab61f42"
+    },
+    {
+      "bytes": 1724,
+      "path": "host/Wpf-CompileReferences.ps1",
+      "sha256": "6a8da15888bc0e98bef1c875303055425de14f4b2e58ef53aa414adebb7deb70"
+    },
+    {
+      "bytes": 11358,
+      "path": "LICENSE",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "bytes": 870,
+      "path": "LICENSING.md",
+      "sha256": "43964e2171c8eaf81b74934b75349af916c6cdf7a2762f8a823d95c8b4ce796e"
+    },
+    {
+      "bytes": 204,
+      "path": "NOTICE",
+      "sha256": "fa552c10c436734b7f3034e12a87c04e61fafd1b6841fd1fc31acb6d03f19fb2"
+    },
+    {
+      "bytes": 17271,
+      "path": "README.md",
+      "sha256": "704886f1fed49ea5f51120038637758d67148774c6a09141e65ecc5699553395"
+    },
+    {
+      "bytes": 3760,
+      "path": "source/browser.ja",
+      "sha256": "3b647d50066b9bd922e72169fe2c1de7af62d715a3837f24f5c7886d30c276b1"
+    },
+    {
+      "bytes": 590,
+      "path": "source/browser.jaops",
+      "sha256": "224dee918f5f62d18952deccaf87d315b0b58944f40406f86f1ca641a3658207"
+    },
+    {
+      "bytes": 1681,
+      "path": "source/browser.jasec",
+      "sha256": "591a0c038ff327ee3463e8dfc3fb2f97b27bb6222eed158264b44050ebd8b19f"
+    },
+    {
+      "bytes": 1734,
+      "path": "source/browser.jasp",
+      "sha256": "50c397896d6a01987d34ce9e1ecb30861341c1f3678e4750041ba7340e00a814"
+    },
+    {
+      "bytes": 2711,
+      "path": "source/browser.jaui",
+      "sha256": "7cd8f053b2ccc08f0240889d714755871a201060ad1608c335678c6da37c47a4"
+    },
+    {
+      "bytes": 6729,
+      "path": "source/browser.jxd",
+      "sha256": "1f14e2950b571c0c485ec13a503d0a274ad2ab8a21fbaa8edd22fa82d61179fc"
+    },
+    {
+      "bytes": 1088,
+      "path": "source/renderer.ja",
+      "sha256": "1962e038608858d41ac706afd8a0d34554025b52497ac578dd07401f4d674432"
+    },
+    {
+      "bytes": 646,
+      "path": "source/web_engine.ja",
+      "sha256": "d53a401457966113af9ce93e64b13d4a6f552e6a40a2e735fddc7956a8456614"
+    },
+    {
+      "bytes": 6022,
+      "path": "substrate/evidence/presenter/CANONICAL_VECTORS.json",
+      "sha256": "5c45b75b3fda0f15853d2fa5afbf462a0fcfe16197a64f01d596536122dafdbd"
+    },
+    {
+      "bytes": 463,
+      "path": "substrate/THIRD-PARTY-NOTICES.md",
+      "sha256": "f6174f0e936995077124877de906b0ec3235844781b72d9b0e33139baeac67ec"
+    },
+    {
+      "bytes": 1149,
+      "path": "THIRD-PARTY-NOTICES.md",
+      "sha256": "5b8ee7fe6b54979b4a4a0f40a98acc3fc3a16cd9b0c45441ec30ebfcf9271a27"
+    },
+    {
+      "bytes": 6,
+      "path": "VERSION",
+      "sha256": "3f55e6f7026b1b78e7ba4fea5b4bbdb4ab263d1c0095f62af1a4c2b6400e20d9"
+    }
+  ],
+  "format": "vb-ja21-package/5",
+  "legacy_missing_files": [
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-01_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-01_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-01_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-01_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-02_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-02_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-02_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-02_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-03_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-03_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-03_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-03_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-04_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-04_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-04_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-04_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-05_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-05_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-05_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-05_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-06_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-06_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-06_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-06_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-07_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-07_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-07_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-07_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-08_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-08_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-08_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-08_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-09_audit.md",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-09_manifest.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-09_requirements.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/BR-401-09_tests.log",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/LCTL_VERIFICATION.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/MANIFEST.sha256",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/MEMORY.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/OPERATIONAL_LEDGER.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/PERFORMANCE.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/QUALIFICATION.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/REPRODUCIBILITY.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/SIZE.json",
+    "substrate/DF_Large/vm/BOTTLE_ROCKET_4.7.0_COLUMNED_LCTL_VIRTUAL_DEVICE_IO_SERVICE_ARCHITECTURE_61K/evidence/4.3.0-baseline/4.2.0-baseline/4.1.0-baseline/4.0.1-baseline/TOOLCHAIN.json",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/01_BR-401-01_repository_size_accounting_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/02_BR-401-02_runtime_memory_accounting_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/03_BR-401-03_wide_word_accounting_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/04_BR-401-04_performance_baseline_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/05_BR-401-05_build_reproducibility_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/06_BR-401-06_evidence_generation_framework_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/07_BR-401-07_canonical_lctl_verification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/08_BR-401-08_operational_ledger_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/09_BR-401-09_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/01_4_0_1_truth_measurement_evidence_rectification/01_4_0_1_truth_measurement_evidence_rectification/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/01_BR-410-01_create_brvm_core_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/02_BR-410-02_remove_host_assumptions_from_the_core_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/03_BR-410-03_define_host_abstraction_layer_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/04_BR-410-04_core_lifecycle_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/05_BR-410-05_execution_context_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/06_BR-410-06_error_model_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/07_BR-410-07_host_adapters_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/08_BR-410-08_sandbox_boundary_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/09_BR-410-09_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/02_4_1_0_production_execution_boundary/02_4_1_0_production_execution_boundary/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/01_BR-420-01_language_specification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/02_BR-420-02_native_opcode_semantics_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/03_BR-420-03_type_system_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/04_BR-420-04_static_verifier_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/05_BR-420-05_control_flow_verification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/06_BR-420-06_capability_verification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/07_BR-420-07_brir_intermediate_representation_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/08_BR-420-08_compilation_pipeline_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/09_BR-420-09_source_to_binary_provenance_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/10_BR-420-10_specification_synchronization_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/11_BR-420-11_round_trip_tools_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/12_BR-420-12_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/03_4_2_0_native_columned_lctl_semantic_authority/03_4_2_0_native_columned_lctl_semantic_authority/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/01_BR-430-01_isa_versioning_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/02_BR-430-02_arithmetic_instructions_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/03_BR-430-03_logical_instructions_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/04_BR-430-04_shift_rotation_semantics_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/05_BR-430-05_register_movement_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/06_BR-430-06_memory_operations_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/07_BR-430-07_control_flow_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/08_BR-430-08_stack_operations_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/09_BR-430-09_system_instructions_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/10_BR-430-10_arithmetic_modes_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/11_BR-430-11_trap_table_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/12_BR-430-12_abi_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/13_BR-430-13_service_abi_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/14_BR-430-14_isa_conformance_corpus_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/15_BR-430-15_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/04_4_3_0_production_isa_abi_completion/04_4_3_0_production_isa_abi_completion/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/01_BR-440-01_trust_root_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/02_BR-440-02_image_signing_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/03_BR-440-03_verification_path_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/04_BR-440-04_production_loader_policy_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/05_BR-440-05_key_hierarchy_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/06_BR-440-06_key_rotation_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/07_BR-440-07_revocation_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/08_BR-440-08_rollback_protection_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/09_BR-440-09_secure_startup_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/10_BR-440-10_security_logging_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/11_BR-440-11_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/05_4_4_0_secure_boot_signing_trust_authority/05_4_4_0_secure_boot_signing_trust_authority/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/01_BR-450-01_storage_abstraction_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/02_BR-450-02_dual_slot_image_store_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/03_BR-450-03_control_record_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/04_BR-450-04_state_authentication_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/05_BR-450-05_atomic_update_sequence_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/06_BR-450-06_power_loss_injection_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/07_BR-450-07_recovery_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/08_BR-450-08_concurrency_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/09_BR-450-09_filesystem_hardening_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/10_BR-450-10_persistent_vm_data_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/11_BR-450-11_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/06_4_5_0_transactional_persistence_crash_recovery/06_4_5_0_transactional_persistence_crash_recovery/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/01_BR-460-01_word_representation_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/02_BR-460-02_lazy_allocation_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/03_BR-460-03_register_bank_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/04_BR-460-04_stack_redesign_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/05_BR-460-05_constant_pool_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/06_BR-460-06_scratch_allocator_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/07_BR-460-07_arithmetic_algorithms_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/08_BR-460-08_memory_quotas_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/09_BR-460-09_resource_traps_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/10_BR-460-10_performance_optimization_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/11_BR-460-11_determinism_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/12_BR-460-12_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/07_4_6_0_wide_state_memory_performance_architecture/07_4_6_0_wide_state_memory_performance_architecture/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/01_BR-470-01_device_abi_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/02_BR-470-02_console_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/03_BR-470-03_persistent_block_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/04_BR-470-04_monotonic_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/05_BR-470-05_entropy_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/06_BR-470-06_clock_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/07_BR-470-07_mailbox_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/08_BR-470-08_apdu_service_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/09_BR-470-09_diagnostic_device_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/10_BR-470-10_network_policy_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/11_BR-470-11_device_discovery_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/12_BR-470-12_device_quotas_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/13_BR-470-13_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/08_4_7_0_virtual_device_i_o_service_architecture/08_4_7_0_virtual_device_i_o_service_architecture/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/01_BR-480-01_independent_brim_parser_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/02_BR-480-02_independent_verifier_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/03_BR-480-03_differential_arithmetic_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/04_BR-480-04_opcode_testing_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/05_BR-480-05_property_tests_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/06_BR-480-06_fuzzing_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/07_BR-480-07_memory_safety_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/08_BR-480-08_control_flow_attacks_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/09_BR-480-09_capability_attacks_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/10_BR-480-10_image_attacks_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/11_BR-480-11_rollback_attacks_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/12_BR-480-12_persistence_attacks_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/13_BR-480-13_cross_platform_testing_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/14_BR-480-14_reproducibility_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/15_BR-480-15_long_duration_soak_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/16_BR-480-16_security_review_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/17_BR-480-17_acceptance_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/09_4_8_0_independent_verification_security_qualification/09_4_8_0_independent_verification_security_qualification/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/01_BR-490-01_feature_freeze_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/02_BR-490-02_release_profiles_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/03_BR-490-03_production_hardening_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/04_BR-490-04_core_61_qualification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/05_BR-490-05_brim_51_qualification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/06_BR-490-06_runtime_memory_qualification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/07_BR-490-07_performance_qualification_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/08_BR-490-08_release_manifests_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/09_BR-490-09_documentation_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/10_BR-490-10_independent_replay_package_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/11_BR-490-11_final_rc_acceptance_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/10_4_9_0_release_candidate_operational_qualification/10_4_9_0_release_candidate_operational_qualification/README.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/01_BR-500-01_native_source_authority_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/02_BR-500-02_native_compiler_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/03_BR-500-03_native_verifier_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/04_BR-500-04_production_vm_core_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/05_BR-500-05_production_loader_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/06_BR-500-06_production_persistence_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/07_BR-500-07_production_devices_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/08_BR-500-08_production_memory_architecture_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/09_BR-500-09_security_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/10_BR-500-10_operational_evidence_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/11_BR-500-11_reproducibility_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/12_BR-500-12_reliability_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/13_BR-500-13_performance_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/14_BR-500-14_release_engineering_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/15_BR-500-15_5_0_0_final_operational_gate_PROMPT_AND_WORKFLOW.md",
+    "substrate/DF_Xtra_Large/vm/QUORUM_LCTL_MSSL_2.1.0/vm/workflow_application/input_workflows/11_5_0_0_columned_lctl_fully_operational_vm/11_5_0_0_columned_lctl_fully_operational_vm/README.md"
+  ],
+  "origin_policy": "Independent byte copies; no personal original workspace state copied; original browser unchanged",
+  "product": "Trail Dossier separate portable host",
+  "publication": {
+    "edition": "Source only; overlay corresponding reviewed release assets for execution",
+    "immutable_runtime_fixture_exception": "browser/substrate/evidence/presenter/CANONICAL_VECTORS.json",
+    "mutable_state_included": false,
+    "private_keys_included": false
+  },
+  "version": "9.8.7"
+}

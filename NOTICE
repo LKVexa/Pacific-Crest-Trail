@@ -1,0 +1,61 @@
+Trail Dossier
+Copyright 2026 TrailDossier contributors
+
+Project-authored application code, launchers, interface, tests, and documentation
+are licensed under the Apache License, Version 2.0. The complete license text is
+in LICENSE. This notice is informational and does not modify that license.
+
+Separately attributed source data, photographs, imagery, copied browser code,
+embedded components, and external runtimes retain their own terms. LICENSES.txt
+and the referenced source records identify those materials and their licenses.
+This notice does not assert ownership of those third-party materials.
+
+Pacific Crest Trail route data
+Pacific Crest Trail Association (PCTA), CC BY 4.0.
+https://www.pcta.org/discover-the-trail/maps/pct-data/
+https://creativecommons.org/licenses/by/4.0/
+The 2026 centerline and half-mile markers were adapted into northbound daily
+segments, simplified display geometry, GeoJSON files, and rendered route maps.
+Source snapshots and the changes are recorded in content/itinerary.json and
+LICENSES.txt. Virtual checkpoints do not establish real-world stopping places.
+PCTA does not endorse this application.
+
+Generalized state locator context
+us-atlas 3.0.1, ISC license.
+Copyright 2013-2019 Michael Bostock
+The full ISC copyright and permission notice is retained in LICENSES.txt.
+https://github.com/topojson/us-atlas/tree/v3.0.1
+
+Topographic and satellite/aerial geographic context
+U.S. Geological Survey / The National Map and the credited source providers.
+USGSTopo credits: USGS The National Map: National Boundaries Dataset, 3DEP
+Elevation Program, Geographic Names Information System, National Hydrography
+Dataset, National Land Cover Database, National Structures Dataset, and National
+Transportation Dataset; USGS Global Ecosystems; U.S. Census Bureau TIGER/Line
+data; USFS Road data; Natural Earth Data; U.S. Department of State HIU; NOAA
+National Centers for Environmental Information.
+USGSImageryOnly credits: USDA, USGS The National Map: Orthoimagery.
+Full provider statements, source dates, tile/export references, and checksums
+remain in content/topography.json, content/satellite.json,
+content/leg_photo_manifest.json, and their referenced source metadata.
+Provider refresh dates are not individual image capture dates. The imagery
+provides historical geographic context rather than current trail conditions.
+
+Ground photographs
+Individual authors and their respective Creative Commons licenses are recorded
+per photograph in content/visuals.json and content/sources/leg_photos/commons-*.json.
+Source descriptions, original image links, license links, and archived public
+metadata accompany the cached pictures. CC BY and CC BY-SA photographs retain
+their specified versions and terms; photographs identified as CC0 retain that
+public-domain dedication. The Apache license does not replace these terms.
+
+Adapted JA21 house-browser distribution
+The copied browser distribution retains browser/LICENSE,
+browser/THIRD-PARTY-NOTICES.md, browser/substrate/THIRD-PARTY-NOTICES.md, and
+component-specific license/notice files. Its top-level Apache license does not
+replace embedded component terms. The Trail Dossier adaptation changes the
+presentation and local navigation policy and adds presenter caching/startup
+diagnostics; it is an independent project copy of the house browser.
+Microsoft WebView2 SDK and Runtime, Windows/.NET/WPF, Python, and PowerShell
+retain their own applicable licenses. These external runtime licenses are not
+granted or replaced by this project's LICENSE.

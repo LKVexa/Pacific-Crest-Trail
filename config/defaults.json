@@ -1,0 +1,7 @@
+{
+  "schema_version": 1,
+  "port": 8765,
+  "python_executable": "",
+  "startup_timeout_seconds": 20,
+  "open_browser": true
+}

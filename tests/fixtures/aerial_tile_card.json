@@ -1,0 +1,76 @@
+{
+  "scope": "Test card derived from the first actually downloaded official JPEG/source-metadata tile, not a claim about the unpublished final visual catalog.",
+  "day_id": "day-001",
+  "photo": {
+    "id": "aerial-day-001-01",
+    "title": "Aerial photograph preview",
+    "media_kind": "aerial",
+    "source_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/16/26477/11555",
+    "thumbnail_url": "/content/media/aerial-day-001-01.jpg",
+    "latitude": 32.632436059877804,
+    "longitude": -116.5237426740889,
+    "route_mile": 9.81566,
+    "distance_to_section_meters": 134.803,
+    "assignment": {
+      "day_id": "day-001",
+      "distance_meters": 134.803,
+      "route_fraction": 0.981566196921263,
+      "coordinate_role": "imagery_tile_center",
+      "route_witness": {
+        "latitude": 32.6320268,
+        "longitude": -116.525096
+      }
+    },
+    "source_tile": {
+      "level": 16,
+      "row": 26477,
+      "column": 11555
+    },
+    "actual_extent": {
+      "spatialReference": {
+        "wkid": 4326
+      },
+      "xmax": -116.52099609205757,
+      "xmin": -116.52648925612021,
+      "ymax": 32.6347490565007,
+      "ymin": 32.63012300346348
+    },
+    "pixel_dimensions": [
+      256,
+      256
+    ],
+    "image_sha256": "bd037ab2898911f5cc647a66a51f620aaf39d2cb445f8060511cb772068fe6d2",
+    "source_metadata_path": "content/sources/leg_photos/aerial-day-001-01.json"
+  },
+  "files": {
+    "content/media/aerial-day-001-01.jpg": {
+      "sha256": "bd037ab2898911f5cc647a66a51f620aaf39d2cb445f8060511cb772068fe6d2",
+      "bytes": 22903,
+      "mime": "image/jpeg",
+      "day_id": "day-001",
+      "photo_id": "aerial-day-001-01",
+      "metadata_path": "content/sources/leg_photos/aerial-day-001-01.json",
+      "metadata_sha256": "d4b002d360871f9aa6e532830ad06823b9c066777296c12c95fcdc42be138599",
+      "pixel_dimensions": [
+        256,
+        256
+      ],
+      "actual_extent": {
+        "spatialReference": {
+          "wkid": 4326
+        },
+        "xmax": -116.52099609205757,
+        "xmin": -116.52648925612021,
+        "ymax": 32.6347490565007,
+        "ymin": 32.63012300346348
+      },
+      "provider_type": "cached-tile",
+      "media_kind": "aerial",
+      "source_tile": {
+        "level": 16,
+        "row": 26477,
+        "column": 11555
+      }
+    }
+  }
+}

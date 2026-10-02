@@ -1,0 +1,104 @@
+{
+  "version": 1,
+  "product": "Trail Dossier",
+  "assessed_utc": "2026-10-02T06:32:04.716772+00:00",
+  "product_charter": {
+    "purpose": "Personal trail preparation through local daily dossiers, user-authored training, geographic familiarity and fictional planning choices",
+    "virtual_itinerary": "266 northbound sections; target 10 virtual miles; final 5.84 miles",
+    "physical_training": "Optional user-authored targets and explicit manual self-report; no supplied personalized prescription",
+    "deployment": "CMD to PowerShell to Python loopback service to a separate clean portable WebView2 host",
+    "human_acceptance": "Pending review; user instructions are product direction, not fabricated signed test acceptance"
+  },
+  "authority_matrix": [
+    {
+      "domain": "campaign/continuation",
+      "writer": "Service.complete",
+      "storage": "data/hike.sqlite campaign/hike_day/completion",
+      "readers": [
+        "local UI",
+        "export",
+        "backup"
+      ],
+      "mutation": "Explicit eligible completion; expected campaign revision plus unique operation identity"
+    },
+    {
+      "domain": "real assignments and workouts",
+      "writer": "experience.mutate assignment/workout actions",
+      "storage": "experience_assignment/experience_workout immutable rows",
+      "readers": [
+        "local UI",
+        "eligibility",
+        "private export"
+      ],
+      "mutation": "User-authored assignment acceptance and explicit manual activity report"
+    },
+    {
+      "domain": "fiction and resources",
+      "writer": "experience.mutate decision action",
+      "storage": "experience_decision/experience_resource",
+      "readers": [
+        "scenario UI",
+        "private export"
+      ],
+      "mutation": "Authored finite options; no physical-target authority"
+    },
+    {
+      "domain": "reflections",
+      "writer": "experience.mutate journal action",
+      "storage": "experience_journal append-only revisions",
+      "readers": [
+        "current dossier",
+        "private export"
+      ],
+      "mutation": "Expected journal and experience revision; preserve original text on conflict"
+    },
+    {
+      "domain": "geography",
+      "writer": "Offline pinned-source builder",
+      "storage": "content itinerary/maps/routes/source archives",
+      "readers": [
+        "local UI",
+        "service manifest validator"
+      ],
+      "mutation": "Rebuild into a separate empty directory; campaign itinerary SHA pinned"
+    },
+    {
+      "domain": "media",
+      "writer": "Bounded public-source curator",
+      "storage": "content/visuals.json",
+      "readers": [
+        "visual gallery"
+      ],
+      "mutation": "Metadata refresh independent from physical activity and campaign state"
+    }
+  ],
+  "process_flow": [
+    "CMD resolves its own project",
+    "PowerShell validates/reuses the owned local service",
+    "Python locks repository and checks schema/route pin",
+    "Additive experience migration takes a consistent pre-migration backup",
+    "WebView2 keeps main frame at the fixed loopback root",
+    "UI reads exact current day and independent visual/experience publications",
+    "POST validates origin, nonce, schema, operation and revisions",
+    "Domain writes and durable receipts commit before response",
+    "Eligible explicit completion commits current day and next pointer together"
+  ],
+  "failure_handoffs": {
+    "lost_response": "Recover committed receipt by operation identity or replay exact request",
+    "stale_browser": "409; refresh committed state and preserve unsaved input",
+    "unavailable_network": "Local geography/experience remain; external imagery has honest gaps",
+    "unsupported_schema": "Refuse startup and preserve repository data",
+    "missing_content": "Refuse structurally invalid publication; unavailable optional images preserve interaction",
+    "interrupted_migration": "Transaction rolls back; consistent pre-migration backup remains"
+  },
+  "metric_dictionary": {
+    "virtual_distance_miles": "Marker-calibrated geographic story interval, not exercise",
+    "actual_distance_meters": "Canonical conversion of explicit user-reported mi/km; null means unknown",
+    "duration_minutes": "Explicit manual duration, not inferred from page timers",
+    "planning_tokens": "Fictional finite planning currency; never physical energy/water",
+    "insight_stamps": "Fictional learning collection; not a readiness score",
+    "campaign_revision": "Number of committed explicit day completions",
+    "experience_revision": "Separate serialized revision for authored assignment/activity/choice/journal actions"
+  },
+  "full_release_policy": "Every one of the 3,720 child requirements remains mandatory until supported or explicitly dispositioned by an authorized reviewer. No exclusion or exception is silently accepted."
+}

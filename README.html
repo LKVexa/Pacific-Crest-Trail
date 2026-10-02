@@ -1,0 +1,147 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Trail Dossier · Start here</title>
+<style>
+:root{color-scheme:dark}body{margin:0;background:#06121c;color:#eaf7ff;font:17px/1.6 "Segoe UI",Arial,sans-serif}main{max-width:1000px;margin:auto;padding:36px 28px 70px}h1{font-size:clamp(32px,5vw,48px);line-height:1.15;margin:12px 0 20px}h2{font-size:25px;line-height:1.3;margin-top:42px}h3{font-size:19px;margin-top:28px}a{color:#70e9eb;text-underline-offset:3px}a:focus-visible{outline:3px solid #f5b867;outline-offset:4px}.eyebrow{font-size:13px;letter-spacing:.16em;font-weight:700}.lead{font-size:21px;max-width:850px}.card{padding:22px 26px;background:#0a1c2b;border:1px solid #234c65;border-radius:14px;margin:24px 0}.accent{border-left:5px solid #70e9eb}code{font-family:Consolas,monospace;font-size:.92em;background:#103048;border-radius:4px;padding:2px 5px}pre{background:#0a1c2b;color:#eaf7ff;padding:18px;border-radius:10px;white-space:pre-wrap;overflow-wrap:anywhere;font:15px/1.55 Consolas,monospace}pre code{background:none;padding:0;color:inherit}table{width:100%;border-collapse:collapse;font-size:15px}th,td{text-align:left;vertical-align:top;padding:12px;border-bottom:1px solid #234c65}th{background:#103048}.table-scroll{overflow-x:auto}li{margin:.5em 0}.fine{font-size:14px;color:#a5c5d7}img{max-width:100%;height:auto}.split{display:grid;grid-template-columns:1.25fr 1fr;gap:34px}.hash{overflow-wrap:anywhere;font:13px/1.7 Consolas,monospace}footer{border-top:1px solid #234c65;margin-top:42px;padding-top:20px}@media(max-width:720px){main{padding:26px 18px 50px}.split{grid-template-columns:1fr}.card{padding:18px}th,td{padding:9px}}@media print{body{background:white}main{padding:0}.card{break-inside:avoid}pre{background:#eee;color:#111}h2{break-after:avoid}}
+@media print{body{color:#182c3c}.card,th{background:#eef3f6;color:#182c3c}a,.fine{color:#184659}}
+</style>
+</head>
+<body><aside style="padding:20px;background:#103048;color:white">Source edition: imagery and runtime assets are supplied by the corresponding complete distribution. Read SOURCE_DELIVERY.md before running this checkout.</aside><main>
+<p class="eyebrow">TRAIL DOSSIER / LOCAL TRAINING EXPEDITION</p>
+<h1>Your whole trail, one dossier at a time</h1>
+<p class="lead">The northbound trail is divided into <strong>266 virtual daily sections</strong>: 265 sections of 10 miles, followed by a final 5.84-mile section. Each section has its own route map, geographic checkpoints, and standalone dossier.</p>
+<div class="card accent"><strong>Virtual distance and treadmill distance are separate.</strong> Ten trail miles defines the amount of route covered by one dossier. Choose your physical workout separately. You can spend several workouts or several calendar days with the same dossier.</div>
+
+<h2>Start your hike</h2>
+<ol>
+<li>Keep this entire application folder in a writable location, such as your Documents folder. Extract the complete folder before launching it.</li>
+<li>Double-click <strong>Start-Hike.cmd</strong>. It starts the local service and opens the separate clean dossier window after the saved hike is ready. Your original D-drive browser is untouched.</li>
+<li>The default address is <a href="http://127.0.0.1:8765/">http://127.0.0.1:8765/</a>. If you select another port, use the exact address shown by the launcher.</li>
+<li>Explore the current route and its dossier. You may also browse previous or future dossiers without changing your saved trail place.</li>
+<li>Save a preparation review or eligible walking activity, acknowledge a fictional choice or deferral, and save a reflection or deliberate empty reflection. Then acknowledge the current section and choose <strong>Complete section and continue</strong>.</li>
+</ol>
+<p>Reopening the application resumes your current unfinished section. It records a new launch, and it advances only after a deliberate completion is saved. Completing a section records a virtual itinerary acknowledgement; it creates no workout or measured exercise record.</p>
+
+<h2>What is included</h2>
+<div class="split"><div>
+<ul>
+<li><strong>All 266 daily dossiers</strong> covering trail miles 0–2,655.84 northbound.</li>
+<li><strong>A separate map for every day</strong>, with the sourced trail line, start and finish symbols, north orientation, geographic reference grid, approximate scale, neighboring trail context, and a regional locator. When the topographic edition is enabled, the daily view also identifies its USGS terrain and contour source.</li>
+<li><strong>A whole-trail overview</strong> connecting the daily sections through California, Oregon, and Washington.</li>
+<li><strong>A searchable section browser</strong>, adjacent-dossier navigation, geographic checkpoint coordinates, and preparation prompts.</li>
+<li><strong>Persistent local history</strong> that survives browser refreshes, restarts, and ordinary relaunches.</li>
+<li><strong>Standalone dossiers and geometry</strong> in HTML, SVG, and GeoJSON, with a <a href="content/daily_sections.csv">complete daily-section table</a>.</li>
+</ul>
+</div><div><img src="content/maps/overview.svg" alt="Whole trail route overview through California, Oregon, and Washington"><p class="fine">Route: Pacific Crest Trail Association, 2026 snapshot, CC BY 4.0. Regional context: Census 2017 / us-atlas 3.0.1.</p></div></div>
+<p>The complete itinerary is in <a href="content/itinerary.json">content/itinerary.json</a>. Individual files follow the stable pattern <code>day-001</code> through <code>day-266</code>. <a href="content/dossiers/day-001.html">Open Day 1</a> or <a href="content/dossiers/day-266.html">open the final day</a> as a standalone document.</p>
+
+<h2>Runtime requirements</h2>
+<ul>
+<li><strong>Windows</strong> for the CMD and PowerShell launchers.</li>
+<li><strong>PowerShell</strong> permitted to run local scripts. The launcher selects installed PowerShell 7 when available, including the bundled Codex runtime if present; otherwise it selects Windows PowerShell. The application service changes no execution-policy settings. The copied vendor browser retains its existing per-process hosting invocation; machine and organizational policies are not changed.</li>
+<li><strong>Python 3.11 or newer</strong> with its standard-library <code>sqlite3</code> module. No additional Python packages are required by the core service.</li>
+<li><strong>Microsoft Evergreen WebView2</strong> for the included clean window. A modern system browser can also display the local site. Static maps and dossiers remain ordinary local files.</li>
+<li><strong>A writable application folder</strong> for the repository-local history and runtime logs.</li>
+</ul>
+<p>Python selection is: the <code>-Python</code> launch argument, the <code>PCT_PYTHON</code> environment variable, <code>config/local.json</code>, a usable Python executable on the path, then the bundled Codex Python runtime when present.</p>
+
+<h2>Useful launch options</h2>
+<p>Run these from a terminal opened in this application folder:</p>
+<pre><code>Start-Hike.cmd
+Start-Hike.cmd -NoBrowser
+Start-Hike.cmd -Status
+Start-Hike.cmd -Port 8787
+Start-Hike.cmd -Python "C:\Path To Python\python.exe"</code></pre>
+<p><code>-Status</code> reports whether this repository has a verified running service and its completed-section count. <code>-NoBrowser</code> prepares the saved hike without automatically opening a browser. Selecting another port does not move or reset your hike.</p>
+<p>To close the service, open a permitted PowerShell terminal in this folder and run:</p>
+<pre><code>&amp; .\scripts\Stop-Hike.ps1</code></pre>
+<p>The stop script checks the application, repository, and current instance before requesting a graceful shutdown. It preserves the saved history. Closing a browser tab alone leaves the local service running.</p>
+<p>Optional local settings go in <code>config/local.json</code>. This file overrides the defaults without editing them:</p>
+<pre><code>{
+  "schema_version": 1,
+  "port": 8765,
+  "python_executable": "C:\\Path To Python\\python.exe",
+  "startup_timeout_seconds": 20,
+  "open_browser": true
+}</code></pre>
+<p>Launch arguments take precedence over the corresponding configured port and Python choices. A running verified instance is reused; stop it before asking the same repository to start on another port.</p>
+
+<h2>Your saved hike</h2>
+<p>The application’s <code>data/</code> directory belongs to your local checkout. It is excluded from Git by the supplied <code>.gitignore</code>.</p>
+<div class="table-scroll"><table><thead><tr><th>File</th><th>Purpose</th></tr></thead><tbody>
+<tr><td><code>data/hike.sqlite</code></td><td>Authoritative campaign, run history, completed-section receipts, revision, and next-section pointer.</td></tr>
+<tr><td><code>data/hike.sqlite-wal</code> and <code>data/hike.sqlite-shm</code></td><td>SQLite coordination and journal files that may exist while the application runs. Preserve them with the database.</td></tr>
+<tr><td><code>data/launcher.jsonl</code></td><td>Launch preparation, ready, reuse, and failure records.</td></tr>
+<tr><td><code>data/service.json</code> and <code>data/service.lock</code></td><td>Current service identity and operating-system ownership coordination.</td></tr>
+<tr><td><code>data/service-*.log</code></td><td>Local startup and service diagnostics.</td></tr>
+</tbody></table></div>
+<p>Each successful launch or reuse receives its own run identity. Hike sections use separate completion records, so launching twice in one day cannot complete two sections. Calendar dates do not determine expedition progress.</p>
+<p>A completion commits its receipt, section status, and continuation pointer together in SQLite. Repeating the same save replays the receipt. A stale tab or conflicting save must refresh the saved trail place before advancing another section.</p>
+<p>If a save’s response is lost, use <strong>Check and retry this save</strong>. The browser checks the same operation identity instead of issuing a second completion. The server’s committed history remains authoritative.</p>
+<p><strong>To back up or move the application:</strong> close it with the stop script, wait for confirmation, then copy the whole application folder including <code>data/</code>. Keep the pinned itinerary with its database. Restore the complete copy before relaunching.</p>
+<p>The database pins the exact itinerary file by SHA-256. Replacing or editing it in place will produce a compatibility refusal instead of silently changing the meaning of completed days. Restore the original content or use a fresh distributed application folder for a separate hike.</p>
+
+<h2>Where the maps come from</h2>
+<p>The route uses the <a href="https://www.pcta.org/discover-the-trail/maps/pct-data/">Pacific Crest Trail Association’s centerline and 2026 half-mile markers</a>, downloaded on October 2, 2026 UTC. PCTA publishes these data under <a href="https://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International</a>. Its January 2026 published whole-trail estimate is 2,655.84 miles.</p>
+<p>This application divides the northbound centerline at marker-calibrated virtual mile positions. Adjacent sections share identical boundary coordinates, and the full mileage range is covered once. The final section is trail miles 2,650–2,655.84.</p>
+<p>The source line contains 1,210,247 vertices. The display geometry uses a four-metre simplification tolerance while preserving daily endpoints. Route-only maps use a local, north-up equirectangular projection; their geographic scale is approximate. The topographic edition places the same route and checkpoints over the <a href="https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer">USGS topographic basemap</a> with its published geographic extent. The whole-trail locator is more generalized.</p>
+<p>Topographic daily maps include terrain shading and contours as historical geographic context. Each enabled map displays its source and retrieval snapshot. <strong>Contour detail and interval vary with location and zoom.</strong> Elevation-label units in the raster source are not assumed; use the supplied map notes and source labels. Basemap retrieval dates are not terrain survey dates. Cached daily maps remain local; viewing them does not require internet access.</p>
+<p>Regional context uses generalized 2017 U.S. Census state boundaries redistributed by <a href="https://github.com/topojson/us-atlas/tree/v3.0.1">us-atlas 3.0.1</a>. Its ISC notice is retained in <a href="LICENSES.txt">LICENSES.txt</a>.</p>
+<p>Changes to the route data include daily segmentation, marker calibration, display simplification, SVG rendering, and regional locator composition. Attribution and the modification notice appear in the dossiers and maps.</p>
+<div class="card"><strong>Map interpretation:</strong> daily endpoints are virtual checkpoints. They are not verified campsites, trailheads, water sources, or recommended real-world stopping places. Topographic context does not establish current weather, closures, water or campsite availability. The maps do not prescribe treadmill incline or calculate a physical training target or verified elevation gain.</div>
+<p>Nine source marker records labelled 2,656–2,660 had no spatial geometry and were excluded from spatial calibration. Source service prose still said 2025 while the geometry edit date and PCTA publication identified January 2026. The exact downloaded bytes and these dispositions are recorded in the source audit.</p>
+<p class="fine">Route release: <code>pcta-2026-611b4f618a67</code><br>Original centerline source SHA-256:</p>
+<p class="hash">611b4f618a6740f52577f1dffff980141094765a08404ecee719d9fd84e38328</p>
+<p>Inspect <a href="content/validation_report.json">the route validation report</a> and <a href="content/sources/source_manifest.json">the source manifest</a> for coverage, calibration, source URLs, retrieval time, hashes, and recorded exceptions. Compressed source snapshots are retained under <code>content/sources/</code>.</p>
+
+
+<h2>The daily experience</h2>
+<p>The default window stays at <strong>http://127.0.0.1:8765/</strong>. It has no browser toolbar, address field, search bar or tab controls. The <strong>Itinerary</strong> button opens the dossier's retained search field. Future and completed dossiers are read only. Source links open in your system browser without changing the dossier window's address. A nondefault development port opens in the system browser.</p>
+<p>Assignments and measurements come from you. Actual activity is manual self-report, not treadmill telemetry. Missing distance or duration stays unknown. A preparation review adds no physical mileage. Story choices use explicitly fictional planning tokens and insight stamps, and never change a physical target. Saved reflections retain append-only versions; an empty reflection requires deliberate acknowledgement. Nothing advances automatically because you open, refresh, close or relaunch.</p>
+<p>Real records and fictional progress are separate. You can progress through preparation even when a physical assignment remains unmet; this never marks that assignment physically complete. The current build has no automatic equipment control, training prescriptions, interval timer, activity corrections, arbitrary route editing, southbound mode, character graph, typed food/water inventory or complete knowledge assessment system.</p>
+<h2>Photographs and look-arounds</h2>
+<p>The location-assigned photo edition supplies <strong>at least 10 local photographs for every one of 266 daily legs</strong>. Use the numbered thumbnail gallery to choose a view. Each image is clearly labeled <strong>Ground photograph</strong> or <strong>Aerial photograph</strong>, with its location, source and separate source license. Maps and look-around links do not count toward this minimum.</p>
+<p>A licensed ground photograph is assigned once to its globally nearest route section within 1 km, using the archived provider geotag. A geotag can describe the camera or subject; the application does not claim independent camera-position verification. Missing ground views are filled with distinct, untouched USGS aerial-image tiles. An aerial tile has an exact geographic extent, a center within 500 m of its assigned section, and a route witness inside its bounds. Its caption describes an overhead area containing the trail. No duplicate source or byte-identical image counts as another photograph. Source dates and image capture dates are distinct.</p>
+<p>The photographs and both map styles are cached locally for offline viewing. Source pages, public social links and interactive panorama services need internet. Each section retains three Google Street View discovery links, for798 checkpoints. <strong>No Google panorama coverage is verified</strong>; a location link may return a nearby panorama or no image. The three separately attributed spherical source pages retain their original association and untested-viewer status. Historical imagery does not establish current conditions or visibility.</p>
+<p>Inspect <code>content/visuals.json</code>, <code>content/leg_photo_manifest.json</code> and their exact archived public source metadata. Run <code>python scripts/Expand-Leg-Photos.py --offline</code> to reproduce the photo edition from the verified cache. Public photo acquisition is deliberate and never runs automatically from the launcher.</p>
+<h2>Topographic and Satellite map views</h2>
+<p>The map's <strong>Topographic / Satellite</strong> toggle changes only its background imagery. The same route, mile boundaries, start and finish remain in place. The chosen view is a local display preference; toggling adds no workout or hike completion. Satellite mode includes historical aerial orthoimagery from USDA / USGS, with lower-resolution cached source tiles where detailed imagery is unavailable.</p>
+<p>Topographic maps contain official contours and shaded relief. Contour intervals and raster label units are source-dependent; no route elevation gain or treadmill incline is calculated. Satellite tiles use their official Web Mercator matrix and geographic bounds; local map interpolation error is checked against a quarter-pixel limit. The whole-trail locator remains a geographic route overview.</p>
+<pre><code>python scripts/Build-Topographic-Maps.py
+python scripts/Build-Satellite-Maps.py --offline
+python scripts/Verify-Topographic-Maps.py
+python scripts/Verify-Leg-Photos.py
+python scripts/Verify-Satellite-Maps.py</code></pre>
+<h2>All3,720 subcontrols</h2>
+<p><a href="web/controls.html">Control review</a> provides searchable original requirements, component references, assessments, evidence and outstanding gaps. The unchanged baseline is in <code>requirements/</code>. <code>content/controls.json</code> binds every child ID to the application. Registration is not verification or institutional acceptance; there are no automatically accepted exceptions.</p>
+<pre><code>python scripts/Verify-Controls.py
+python scripts/Verify-Controls.py --require-all-verified
+python scripts/Verify-Assets.py</code></pre>
+<p>The strict control command exits2 while any mandatory child remains unverified. A green registration result only confirms complete traceability. The application is a functional local prototype, not an accepted full institutional release. Detailed status counts and release scope are in <code>governance/release.json</code>.</p>
+<h2>Private export and consistent backups</h2>
+<p>Use the following commands with a new output name each time. Exports intentionally include your private notes; they exclude service credentials. Backups use SQLite's consistent backup mechanism, retain campaign/experience history and the pinned route/source package, and validate restoration. Restore refuses an existing target and never overwrites active history.</p>
+<pre><code>python app/history_tools.py export --data-dir data --output exports/my-history.json
+python app/history_tools.py backup --data-dir data --destination backups/my-backup
+python app/history_tools.py restore --backup-dir backups/my-backup --data-dir restored-history</code></pre>
+<p>A database recovery backup is distinct from the whole application distribution. For relocation, stop the service, close the dossier window, and copy the entire project including its <code>data/</code>, <code>content/</code> and copied browser. Keep one active authoritative folder at a time. OneDrive is the requested storage location, but live multi-computer SQLite synchronization is not supported or validated; stop the local service before moving a synchronized copy to another computer.</p>
+<p>Isolated tests are included under <code>tests/</code>. They create synthetic fixtures and do not use your saved hike. Verification reports state their tested scope; institutional signoffs and missing systems remain open.</p>
+
+<h2>Native window verification</h2>
+<p>The independent house browser uses the fixed local dossier address. Its compiled presenter is cached under <code>browser/workspace/cache/presenter/</code>, with source and runtime checks before reuse. The first build after a source or runtime change takes longer. Startup messages now confirm the visible window, and a separate marker records when the dossier document loads. Read <code>browser/workspace/logs/boot-latest.log</code> for individual phase timings and <code>data/launcher.jsonl</code> for launch stages. The original browser installation and saved hike history remain separate.</p>
+<h2>If something does not open or save</h2>
+<div class="table-scroll"><table><thead><tr><th>Symptom</th><th>Action</th></tr></thead><tbody>
+<tr><td>The browser page cannot connect.</td><td>Run <code>Start-Hike.cmd</code> again and use the exact local address it reports. A relaunch resumes saved progress.</td></tr>
+<tr><td>The selected port is occupied.</td><td>Select another port with <code>-Port</code>, or stop this repository’s verified service before changing its port. Unrelated services are never terminated.</td></tr>
+<tr><td>A script-policy refusal appears.</td><td>Use a PowerShell runtime permitted by your existing configuration or ask the machine administrator about the refusal. The launcher does not override organizational or persistent policy.</td></tr>
+<tr><td>Python cannot be found.</td><td>Supply an existing Python 3.11+ executable through <code>-Python</code>, <code>PCT_PYTHON</code>, or local configuration.</td></tr>
+<tr><td>A map or dossier is missing.</td><td>Restore the published content from the original application copy. Opening a missing map does not advance the hike.</td></tr>
+<tr><td>A save appears uncertain.</td><td>Keep the page and use its check-and-retry action. Refresh the saved trail place after a conflict.</td></tr>
+<tr><td>The itinerary is incompatible with the saved campaign.</td><td>Preserve <code>data/</code> and restore the exact pinned itinerary. Do not replace history with an empty file to dismiss the error.</td></tr>
+<tr><td>Storage is unavailable or read-only.</td><td>Restore access to the application’s local folder. The service will not silently redirect your hike into another database.</td></tr>
+</tbody></table></div>
+
+<footer><p>This local prototype includes the complete daily route, real manual records, fictional choices and reflections. Full acceptance against all3,720 mandatory subcontrols remains blocked; inspect the included control assessment and outstanding gaps. Project-authored code and documentation use <a href="LICENSE">Apache License 2.0</a>; <a href="NOTICE">NOTICE</a> and <a href="LICENSES.txt">third-party licenses and credits</a> apply separately.</p><p class="fine">Trail Dossier · 2026 · Local first · No measured workout is inferred from a dossier completion.</p></footer>
+</main></body></html>

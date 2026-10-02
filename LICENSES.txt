@@ -1,0 +1,212 @@
+TRAIL DOSSIER - CODE AND THIRD-PARTY NOTICES
+==========================================
+
+These notices identify separate materials and their terms. The project LICENSE
+applies to project-authored software and documentation. It does not relicense
+source data, photographs, map imagery, copied browser components, or runtimes.
+The informational attribution summary is in NOTICE.
+
+
+1. PROJECT-AUTHORED APPLICATION - APACHE LICENSE 2.0
+---------------------------------------------------
+
+Copyright 2026 TrailDossier contributors
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    https://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software distributed
+under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR
+CONDITIONS OF ANY KIND, either express or implied. See the License for the
+specific language governing permissions and limitations under the License.
+
+The complete, unmodified Apache License 2.0 text is in LICENSE. Official source:
+https://www.apache.org/licenses/LICENSE-2.0.txt
+
+Scope: project-authored Python service, CMD/PowerShell launchers, web interface,
+tests and documentation. Source datasets, source-containing test fixtures,
+third-party pictures and maps, copied browser code and embedded modules, and
+external runtimes retain the separately stated terms below. This notice does
+not assert ownership of those materials or grant their rights under Apache 2.0.
+
+
+2. PCTA ROUTE GEOMETRY AND MILE MARKERS - CC BY 4.0
+------------------------------------------------
+
+Attribution: Pacific Crest Trail Association.
+Material: Pacific Crest Trail centerline and 2026 half-mile marker data,
+including source snapshots and adapted daily route geometry and map rendering.
+
+Source page:
+https://www.pcta.org/discover-the-trail/maps/pct-data/
+
+License: Creative Commons Attribution 4.0 International (CC BY 4.0).
+License information and legal terms:
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by/4.0/legalcode
+
+Snapshot retrieval: 2026-10-02T04:46:17Z.
+Route release: pcta-2026-611b4f618a67.
+Original centerline source SHA-256:
+611b4f618a6740f52577f1dffff980141094765a08404ecee719d9fd84e38328
+
+Changes made for this application: northbound marker-calibrated daily
+segmentation; four-metre display simplification preserving daily endpoints;
+GeoJSON export; SVG rendering; neighboring-route context and state locator
+composition. The total virtual chainage uses PCTA's January 2026 published
+whole-trail estimate of 2,655.84 miles.
+
+Nine nonspatial marker records labelled 2,656-2,660 were excluded from spatial
+calibration and retained in the source audit. The service description said
+2025 while the geometry edit date and PCTA publication identified January
+2026; exact source bytes are pinned by hash. These modifications and source
+dispositions are documented in content/itinerary.json and the validation report.
+
+PCTA does not endorse this application. Daily boundaries are virtual checkpoints;
+the adapted maps do not verify campsites, water, elevation, current closures,
+or suitability of a real-world stopping place.
+
+
+3. US-ATLAS 3.0.1 - ISC NOTICE
+-----------------------------
+
+Material: generalized 2017 U.S. Census state-boundary context distributed in
+us-atlas 3.0.1 and adapted into the application's locator maps.
+
+Project: https://github.com/topojson/us-atlas/tree/v3.0.1
+Exact license source:
+https://raw.githubusercontent.com/topojson/us-atlas/v3.0.1/LICENSE
+
+The following copyright and permission notice is retained verbatim:
+
+Copyright 2013-2019 Michael Bostock
+
+Permission to use, copy, modify, and/or distribute this software for any purpose
+with or without fee is hereby granted, provided that the above copyright notice
+and this permission notice appear in all copies.
+THE SOFTWARE IS PROVIDED "AS IS" AND THE AUTHOR DISCLAIMS ALL WARRANTIES WITH
+REGARD TO THIS SOFTWARE INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND
+FITNESS. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY SPECIAL, DIRECT,
+INDIRECT, OR CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS
+OF USE, DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE OF
+THIS SOFTWARE.
+
+
+4. USGS TOPOGRAPHIC AND SATELLITE/AERIAL SOURCE IMAGERY
+------------------------------------------------------
+
+The topographic map edition uses official USGSTopo export images. The satellite
+map edition and aerial picture cards use original USGSImageryOnly cached tiles.
+The provider describes the used CONUS orthoimagery as U.S. public-domain source
+material. Preserve the provider credits and source-specific statements; this
+record does not extend that description to unrelated or separately licensed
+imagery. The application Apache license does not replace source rights.
+
+Topographic service:
+https://basemap.nationalmap.gov/arcgis/rest/services/USGSTopo/MapServer
+
+Attribution retained from the pinned provider metadata:
+USGS The National Map: National Boundaries Dataset, 3DEP Elevation Program,
+Geographic Names Information System, National Hydrography Dataset, National
+Land Cover Database, National Structures Dataset, and National Transportation
+Dataset; USGS Global Ecosystems; U.S. Census Bureau TIGER/Line data; USFS Road
+data; Natural Earth Data; U.S. Department of State HIU; NOAA National Centers
+for Environmental Information. Data refreshed September 4, 2026-v1.2
+
+Imagery service:
+https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer
+
+Attribution retained from the pinned provider metadata:
+USDA, USGS The National Map: Orthoimagery. Data refreshed June, 2024.v1.2
+
+Provider rights reference:
+https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits
+
+Full service statements and checksums remain in:
+- content/topography.json and content/sources/topography/service.json
+- content/satellite.json and content/sources/satellite/*.json
+- content/leg_photo_manifest.json and content/sources/leg_photos/service.json
+- Each image's referenced export or tile metadata and original raster file
+
+The maps place the source imagery with the adapted PCTA route and virtual
+checkpoint overlays. Original satellite tile bytes and cached ground thumbnail
+bytes are retained; they were not generated by the application. Historical
+imagery is not a live view. A service refresh date is not an image capture date.
+
+
+5. GROUND PHOTOGRAPHS - INDIVIDUAL CREATIVE COMMONS TERMS
+-------------------------------------------------------
+
+Wikimedia Commons source photographs retain each credited author's license.
+The published edition contains these license families: CC BY 2.0, CC BY 2.5,
+CC BY 3.0, CC BY 4.0, CC BY-SA 2.0, CC BY-SA 3.0, CC BY-SA 4.0, and CC0.
+A family's presence is not a single license for the whole picture collection.
+
+The per-photo authoritative records in content/visuals.json identify the title,
+author, license name/version, license_url, Commons source page, original image
+URL, local cached thumbnail, and public provenance references. The corresponding
+content/sources/leg_photos/commons-*.json file retains the cached source response
+and the same credits. Public source metadata archives and their compressed/raw
+checksums are retained under content/sources/visual_curation/.
+
+License links used by this edition:
+https://creativecommons.org/licenses/by/2.0/
+https://creativecommons.org/licenses/by/2.5/
+https://creativecommons.org/licenses/by/3.0/
+https://creativecommons.org/licenses/by/4.0/
+https://creativecommons.org/licenses/by-sa/2.0/
+https://creativecommons.org/licenses/by-sa/3.0/
+https://creativecommons.org/licenses/by-sa/4.0/
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Keep each photograph's source credit and exact license record with redistributed
+copies. CC BY-SA photographs remain under the specified ShareAlike terms; the
+application's Apache license does not replace them. Location assignment and
+checksum verification do not establish copyright ownership or substitute for
+source-specific permissions. Source thumbnails may already differ in size from
+the original photograph; this project preserves the downloaded thumbnail bytes.
+
+
+6. COPIED JA21 HOUSE BROWSER AND EMBEDDED COMPONENTS
+---------------------------------------------------
+
+The independent project copy is under browser/. Its existing top-level Apache
+License 2.0 text is retained in browser/LICENSE. Existing component notices and
+license files remain in place; they are not replaced by this project's LICENSE:
+
+- browser/THIRD-PARTY-NOTICES.md
+- browser/substrate/THIRD-PARTY-NOTICES.md
+- License/notice files supplied with DF_Small, DF_Medium, DF_Large,
+  DF_Xtra_Large, DF_Fabric, Technical_Institute, and other embedded components
+- The retained DF_Medium source archive and its own notices
+
+These upstream records, rather than a blanket project-level claim, describe
+the terms for each supplied component. The browser notices identify the pinned
+Microsoft.Web.WebView2 SDK adapter 1.0.4191.47 and the installed Microsoft Edge
+WebView2 Runtime as Microsoft components under their own terms. Their binaries
+are not licensed under the Trail Dossier copyright notice.
+
+Trail Dossier modifications provide a dedicated fixed-address local dossier
+window, local navigation policy, and source-aware presenter caching/startup
+diagnostics. The copied distribution's existing licenses and notices are
+retained. The original house-browser installation is a separate distribution.
+
+
+7. EXTERNAL RUNTIMES AND PUBLIC SOURCE-REPOSITORY SCOPE
+-----------------------------------------------------
+
+Python, PowerShell, Windows/.NET/WPF, and Microsoft Edge WebView2 remain external
+platform/runtime components under their respective terms. A source repository
+must not treat downloaded SDK/runtime binaries as project-owned Apache code.
+Mutable browser workspace, presenter builds, SDK/runtime download caches,
+private campaign databases, backups, exports, configuration secrets, and logs
+are local operational state, not public project source or licensed trail data.
+
+Retain the applicable vendor license notices with any separately distributed
+runtime package. Additional media or content packs need their own source and
+rights records; this application's code license grants no rights to unrelated
+photographs or datasets.

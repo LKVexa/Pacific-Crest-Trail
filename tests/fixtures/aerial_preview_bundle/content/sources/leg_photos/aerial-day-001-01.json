@@ -1,0 +1,72 @@
+{
+  "attribution": "USDA, USGS The National Map: Orthoimagery. Data refreshed June, 2024.v1.2",
+  "capture_date": null,
+  "center_latitude": 32.632436059877804,
+  "center_longitude": -116.5237426740889,
+  "day_id": "day-001",
+  "decoded_dimensions": [
+    256,
+    256
+  ],
+  "distance_to_section_meters": 134.8033747832532,
+  "image_bytes": 22903,
+  "image_sha256": "bd037ab2898911f5cc647a66a51f620aaf39d2cb445f8060511cb772068fe6d2",
+  "minimum_supported_scale": 9027.977411,
+  "photo_id": "aerial-day-001-01",
+  "pixel_stddev": [
+    15.632563568527718,
+    14.098815310114121,
+    12.55012789039876
+  ],
+  "provider_response": {
+    "http_status": 200,
+    "mime": "image/jpeg"
+  },
+  "provider_type": "cached-tile",
+  "request_url": "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer/tile/16/26477/11555",
+  "rights_references": [
+    "https://basemap.nationalmap.gov/arcgis/rest/services/USGSImageryOnly/MapServer?f=pjson",
+    "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits",
+    "https://data.usgs.gov/datacatalog/data/USGS:EROS5e83a340bf820c39"
+  ],
+  "route_fraction": 0.981566196921263,
+  "route_witness": {
+    "latitude": 32.6320268,
+    "longitude": -116.525096
+  },
+  "service_metadata_path": "content/sources/leg_photos/service.json",
+  "service_metadata_sha256": "b59cc5e7ba5f700fd5a96e6d26e54cd5c62d80821417d2503b526a1bed05d2b0",
+  "source_date": "2026-10-02T16:56:16.768277+00:00",
+  "tile": {
+    "column": 11555,
+    "geographic_extent": {
+      "spatialReference": {
+        "wkid": 4326
+      },
+      "xmax": -116.52099609205757,
+      "xmin": -116.52648925612021,
+      "ymax": 32.6347490565007,
+      "ymin": 32.63012300346348
+    },
+    "height": 256,
+    "level": 16,
+    "native_extent": {
+      "spatialReference": {
+        "wkid": 3857
+      },
+      "xmax": -12971057.951692868,
+      "xmin": -12971669.447919166,
+      "ymax": 3846922.7591075823,
+      "ymin": 3846311.2628812846
+    },
+    "origin": {
+      "x": -20037508.342787,
+      "y": 20037508.342787
+    },
+    "resolution": 2.388657133974685,
+    "row": 26477,
+    "scale": 9027.977411,
+    "width": 256
+  },
+  "version": 1
+}
